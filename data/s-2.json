@@ -1,0 +1,110 @@
+{
+    "section": "Visual Signals",
+    "section_number": "2",
+    "questions": [
+        {
+            "index": "01",
+            "question": "A series of green flashes directed at an aircraft means respectively (in flight / on the ground)",
+            "answers": {
+                "1": "cleared to land;-----------cleared to taxi.",
+                "2": "return for landing;--------cleared for take-off.",
+                "3": "return for landing;--------cleared to taxi.",
+                "4": "cleared to land;-----------cleared for take-off."
+            },
+            "correctAnswer": "3",
+            "references": []
+        },
+        {
+            "index": "02",
+            "question": "A steady red light directed at an aircraft means (in flight / on the ground)",
+            "answers": {
+                "1": "give way to other aircraft and continue circling;-----------stop.",
+                "2": "give way to other aircraft and continue circling;-----------taxi clear of landing area in use.",
+                "3": "airport unsafe do not land;---------------------------------taxi clear of landing area in use.",
+                "4": "airport unsafe do not land;---------------------------------stop."
+            },
+            "correctAnswer": "1",
+            "references": []
+        },
+        {
+            "index": "03",
+            "question": "A series of red flashes directed at an aircraft means respectively (in flight / on the ground)",
+            "answers": {
+                "1": "airport unsafe, do not land;------------------------taxi clear of landing area in use.",
+                "2": "give way to other aircraft and continue circling;---stop.",
+                "3": "do not land for time being;-------------------------return to starting point on airport.",
+                "4": "you are in prohibited area, alter course;-----------stop."
+            },
+            "correctAnswer": "1",
+            "references": []
+        },
+        {
+            "index": "04",
+            "question": "A steady green light directed at an aircraft means respectively (in flight / on the ground)",
+            "answers": {
+                "1": "cleared to land;---------------cleared to taxi.",
+                "2": "return for landing;------------cleared to taxi.",
+                "3": "return for landing;------------cleared for take-off.",
+                "4": "cleared to land;---------------cleared for take-off.               "
+            },
+            "correctAnswer": "4",
+            "references": []
+        },
+        {
+            "index": "05",
+            "question": "A flashing white light directed at an aircraft on the manoeuvering area of an airport means",
+            "answers": {
+                "1": "stop.",
+                "2": "return to starting point on the airport.",
+                "3": "cleared to taxi.",
+                "4": "taxi clear of landing area in use."
+            },
+            "correctAnswer": "2",
+            "references": []
+        },
+        {
+            "index": "06",
+            "question": "Blinking runway lights advises vehicles and pedestrians to",
+            "answers": {
+                "1": "return to the apron.",
+                "2": "vacate the runways immediately.",
+                "3": "be aware that an emergency is in progress; continue with caution.",
+                "4": "be aware that an emergency is in progress; hold your position."
+            },
+            "correctAnswer": "2",
+            "references": []
+        },
+        {
+            "index": "07",
+            "question": "Chrome yellow and black strips painted on pylons or on the roof of a building identifies",
+            "answers": {
+                "1": "an area where explosives are in use.",
+                "2": "a fur farm.",
+                "3": "an artillery range.",
+                "4": "an open pit mine."
+            },
+            "correctAnswer": "2",
+            "references": []
+        },
+        {
+            "index": "08",
+            "question": "Pilots should not overfly reindeer or caribou at an altitude of less than",
+            "answers": {
+                "1": "2,500 feet AGL.",
+                "2": "2,000 feet AGL.",
+                "3": "1,500 feet AGL.",
+                "4": "1,000 feet AGL."
+            },
+            "correctAnswer": "2",
+            "references": []
+        }
+    ]
+}
+
+
+
+
+
+
+
+
