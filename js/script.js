@@ -9,18 +9,25 @@
 
                 // variable to store the list of possible answers
                 const answers = [];
+                
+                shuffledKeys = [];
+                for(i in currentQuestion.answers){shuffledKeys.push(i)}
+                shuffledKeys = shuffledKeys.sort((a, b) => 0.5 - Math.random())
 
                 // and for each available answer...
-                for (letter in currentQuestion.answers) {
+                index = 1;
+                for (key in shuffledKeys) {
 
+                    letter = shuffledKeys[key]
                     // ...add an HTML radio button
                     answers.push(
                         `<label>
-                        <input type="radio" name="question${questionNumber}" value="${letter}">
-                        ${letter} :
+                        <input type="radio" name="question${currentQuestion.index}" value="${letter}">
+                        ${index} :
                         ${currentQuestion.answers[letter]}
                         </label>`
                     );
+                    index++
                 }
 
                 // add this question and its answers to the output
@@ -48,7 +55,7 @@
 
             // find selected answer
             const answerContainer = answerContainers[questionNumber];
-            const selector = `input[name=question${questionNumber}]:checked`;
+            const selector = `input[name=question${currentQuestion.index}]:checked`;
             const userAnswer = (answerContainer.querySelector(selector) || {}).value;
 
             // if answer is correct
