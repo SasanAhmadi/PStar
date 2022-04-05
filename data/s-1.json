@@ -1,0 +1,156 @@
+{
+    "section": "Collision Avoidance",
+    "section_number": "1",
+    "questions": [
+        {
+            "index": "01",
+            "question": "Which statement is true with regard to aircraft converging at approximately the same altitude?",
+            "answers": {
+                "1": "A jet airliner has the right of way over all other aircraft.",
+                "2": "An aircraft towing objects has the right of way over all power-driven heavier-than-air aircraft.",
+                "3": "An aeroplane has the right of way over all other aircraft which are converging from the left.",
+                "4": "Aeroplanes towing gliders must give way to helicopters."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "When two aircraft are converging at approximately the same altitude",
+            "answers": {
+                "1": "both aircraft shall alter heading to the left.",
+                "2": "the aircraft on the right shall avoid the other by descending.",
+                "3": "the aircraft that has the other on its right shall give way.",
+                "4": "the aircraft that has the other on its left shall give way."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+            "answers": {
+                "1": "Gliders shall give way to helicopters.",
+                "2": "Aeroplanes shall give way to power-driven heavier-than-air aircraft.",
+                "3": "Gliders shall give way to aeroplanes.",
+                "4": "Power-driven heavier-than-air aircraft shall give way to gliders."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+            "answers": {
+                "1": "Gliders shall give way to helicopters.",
+                "2": "Aeroplanes shall give way to helicopters.",
+                "3": "Helicopters shall give way to aeroplanes.",
+                "4": "Helicopters shall give way to gliders."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+            "answers": {
+                "1": "Gliders shall give way to helicopters.",
+                "2": "Aeroplanes shall give way to helicopters.",
+                "3": "Helicopters shall give way to aeroplanes.",
+                "4": "Gliders shall give way to balloons."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "When converging at approximately the same altitude",
+            "answers": {
+                "1": "balloons shall give way to hang gliders.",
+                "2": "aeroplanes towing gliders shall give way to balloons.",
+                "3": "balloons shall give way to gliders.",
+                "4": "balloons shall give way to airships."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "When two power-driven heavier-than-air aircraft are converging at approximately the same altitude,",
+            "answers": {
+                "1": "the one on the left has the right of way.",
+                "2": "both shall alter heading to the left.",
+                "3": "the one on the right has the right of way.",
+                "4": "the one on the right shall give way by descending."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "When two aircraft are approaching head-on or approximately so and there is danger of collision, each pilot shall",
+            "answers": {
+                "1": "decrease airspeed.",
+                "2": "increase airspeed.",
+                "3": "alter heading to the right.",
+                "4": "alter heading to the left."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "When overtaking an aircraft at your 12 o'clock position, at your altitude, you should",
+            "answers": {
+                "1": "climb.",
+                "2": "descend.",
+                "3": "alter heading to the right.",
+                "4": "alter heading to the left."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "Two aircraft are on approach to land, the aircraft at the higher altitude shall",
+            "answers": {
+                "1": "have the right of way.",
+                "2": "overtake the lower aircraft on the left.",
+                "3": "give way.",
+                "4": "complete a 360° turn to the right."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Collision Avoidance - Right of Way",
+                "CARs 602.19 - Right of Way"
+            ]
+        }
+    ]
+}
