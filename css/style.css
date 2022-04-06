@@ -33,9 +33,12 @@ body{
 
 @media (pointer:none), (pointer:coarse) {
 	.question{
-		font-size: 25px;
+		font-size: 35px;
 	}
 	.answers {
-		font-size: 20px;
+		font-size: 30px;
+	}
+	.section{
+		font-size: 40px;
 	}
 }
