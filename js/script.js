@@ -22,13 +22,13 @@
                         index = 1;
                         for (key in shuffledKeys) {
 
-                            letter = shuffledKeys[key]
+                            answerKey = shuffledKeys[key]
                             // ...add an HTML radio button
                             answers.push(
                                 `<label>
-                                <input type="radio" name="question_${currentSection.section_number + '_' + currentQuestion.index}" value="${letter}">
+                                <input type="radio" name="question_${currentSection.section_number + '_' + currentQuestion.index}" value="${answerKey}">
                                 ${index} :
-                                ${currentQuestion.answers[letter]}
+                                ${currentQuestion.answers[answerKey]}
                                 </label>`
                             );
                             index++
