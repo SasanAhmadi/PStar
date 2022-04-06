@@ -31,7 +31,7 @@ body{
 	background-color: #38a;
 }
 
-@media only screen and (max-width: 751px) {
+@media (pointer:none), (pointer:coarse) {
 	.question{
 		font-size: 25px;
 	}
