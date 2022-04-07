@@ -76,10 +76,10 @@ body{
 		font-size: 40px;
 	}
 	#submit{
-		font-size: 40px;
+		font-size: 50px;
 	}
 	#results{
-		font-size: 40px;
+		font-size: 50px;
 	}
 	.footer{
 		padding : 30px;
@@ -90,7 +90,7 @@ body{
 		left: 0;
 	}
 	#quiz{
-		padding-bottom: 140px;
+		padding-bottom: 170px;
 	}
 	input[type='radio'] { 
 		transform: scale(1.7); 
