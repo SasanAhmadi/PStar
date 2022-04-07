@@ -12,7 +12,10 @@
                 "4": "cleared to land;-----------cleared for take-off."
             },
             "correctAnswer": "3",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals",
+                "TC AIM-RAC - Visual Signals"
+            ]
         },
         {
             "index": "02",
@@ -24,7 +27,10 @@
                 "4": "airport unsafe do not land;---------------------------------stop."
             },
             "correctAnswer": "1",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals",
+                "TC AIM-RAC - Visual signals"
+            ]
         },
         {
             "index": "03",
@@ -36,7 +42,10 @@
                 "4": "you are in prohibited area, alter course;-----------stop."
             },
             "correctAnswer": "1",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals",
+                "TC AIM-RAC - Visual signals"
+            ]
         },
         {
             "index": "04",
@@ -48,7 +57,10 @@
                 "4": "cleared to land;---------------cleared for take-off.               "
             },
             "correctAnswer": "4",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals",
+                "TC AIM-RAC - Visual signals"
+            ]
         },
         {
             "index": "05",
@@ -60,7 +72,9 @@
                 "4": "taxi clear of landing area in use."
             },
             "correctAnswer": "2",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals"
+            ]
         },
         {
             "index": "06",
@@ -72,7 +86,9 @@
                 "4": "be aware that an emergency is in progress; hold your position."
             },
             "correctAnswer": "2",
-            "references": []
+            "references": [
+                "TC AIM-RAC - Visual Signals"
+            ]
         },
         {
             "index": "07",
@@ -84,7 +100,9 @@
                 "4": "an open pit mine."
             },
             "correctAnswer": "2",
-            "references": []
+            "references": [
+                "AIP Part 2 - Fur and Poultry Farms"
+            ]
         },
         {
             "index": "08",
@@ -96,15 +114,9 @@
                 "4": "1,000 feet AGL."
             },
             "correctAnswer": "2",
-            "references": []
+            "references": [
+                "AIP Part 2 - Protection of Wildlife"
+            ]
         }
     ]
 }
-
-
-
-
-
-
-
-
