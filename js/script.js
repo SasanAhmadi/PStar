@@ -102,11 +102,11 @@
     question_bank = Object()
     question_bank.sections = []
     question_bank.sections.push(await loadQuestions("data/s-1.json"));
-    // question_bank.sections.push(await loadQuestions("data/s-2.json"));
-    // question_bank.sections.push(await loadQuestions("data/s-3.json"));
-    // question_bank.sections.push(await loadQuestions("data/s-4.json"));
-    // question_bank.sections.push(await loadQuestions("data/s-5.json"));
-    // question_bank.sections.push(await loadQuestions("data/s-6.json"));
+    question_bank.sections.push(await loadQuestions("data/s-2.json"));
+    question_bank.sections.push(await loadQuestions("data/s-3.json"));
+    question_bank.sections.push(await loadQuestions("data/s-4.json"));
+    question_bank.sections.push(await loadQuestions("data/s-5.json"));
+    question_bank.sections.push(await loadQuestions("data/s-6.json"));
 
     // Kick things off
     buildQuiz();
