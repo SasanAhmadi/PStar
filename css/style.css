@@ -3,6 +3,9 @@ body{
 	font-family: sans-serif;
 	color: #333;
 }
+#quiz{
+	padding-bottom: 80px;
+}
 .question{
 	font-weight: 600;
 	color: #0D251B;
@@ -16,8 +19,8 @@ body{
 	font-weight: 800;
 	font-size: 30px;
 	color: #0A3622;
-	background: rgb(2,0,36);
-	background: linear-gradient(90deg, rgba(2,0,36,0) 21%, rgba(9,121,56,1) 69%, rgba(0,255,111,1) 100%);
+	background: rgb(245,254,247);
+	background: linear-gradient(90deg, rgba(245,254,247,1) 0%, rgba(200,253,204,1) 33%, rgba(1,118,9,1) 100%)
 }
 .answers {
   margin-bottom: 20px;
@@ -42,7 +45,25 @@ body{
 #submit:hover{
 	background-color: #38a;
 }
-
+#results{
+	font-size: 20px;
+	font-weight: 600;
+	padding-left: 10px;
+	color: #0D251B;
+	display: inline-block;
+}
+.footer{
+	padding : 10px;
+	padding-top: 50px;
+	bottom: -15px;
+	padding-bottom: 5px;
+	right: 0;
+	left: 0;
+	position: fixed;
+	display: block;
+	background: rgb(251,254,255);
+	background: linear-gradient(180deg, rgba(251,254,255,0) 0%, rgba(200,229,253,1) 33%, rgba(166,212,248,1) 100%);
+}
 @media (pointer:none), (pointer:coarse) {
 	.question{
 		font-size: 35px;
