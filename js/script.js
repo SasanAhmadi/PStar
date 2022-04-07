@@ -74,7 +74,7 @@
                     numCorrect++;
 
                     // color the answers green
-                    answerContainers[answerSheet].style.color = 'lightgreen';
+                    answerContainers[answerSheet].style.color = '#008000';
                 }
                 // if answer is wrong or blank
                 else {
@@ -86,7 +86,7 @@
         });
 
         // show number of correct answers out of total
-        resultsContainer.innerHTML = `${numCorrect} out of ${question_bank.questions.length}`;
+        resultsContainer.innerHTML = `${numCorrect} out of ${answerSheet}`;
     }
 
     const quizContainer = document.getElementById('quiz');
