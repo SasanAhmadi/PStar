@@ -1,0 +1,124 @@
+{
+    "section": "Aerodromes",
+    "section_number": "4",
+    "questions": [
+        {
+            "index": "01",
+            "question": "An airport is",
+            "answers": {
+                "1": "an aerodrome with paved runways.",
+                "2": "an aerodrome with a control tower.",
+                "3": "an uncertified aerodrome.",
+                "4": "a certified aerodrome."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-AGA - Aerodromes and Airports / General",
+                "CARs 101.01 - Airport",
+                "CARs 302.03 - Issuance of Airport Certificate",
+                "Flight Training Manual Chapter 5 - Airport Operations "
+            ]
+        },
+        {
+            "index": "02",
+            "question": "A dry Transport Canada standard wind direction indicator when horizontal indicates a wind speed of at least",
+            "answers": {
+                "1": "25 kt.",
+                "2": "15 kt.",
+                "3": "10 kt.",
+                "4": "6 kt."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AGA - Wind Direction Indicators",
+                "Flight Training Manual Chapter 5 - Airport Operations"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "No person shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from",
+            "answers": {
+                "1": "the operator of the airport.",
+                "2": "the airport security officer.",
+                "3": "a federal peace officer.",
+                "4": "a qualified flying instructor."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 301.08 - Prohibitions"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "Runways and taxiways or portions thereof that are closed to aircraft are marked by",
+            "answers": {
+                "1": "red flags.",
+                "2": "horizontal red squares with yellow diagonals.",
+                "3": "white “Xs” on runways and yellow “Xs” on taxiways.",
+                "4": "white dumbbells."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-AGA - Closed Markings"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "The west end of a runway oriented east and west is numbered",
+            "answers": {
+                "1": "09.",
+                "2": "90.",
+                "3": "27.",
+                "4": "270."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "Flight Training Manual Chapter 5 - Airport Operations"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "Where taxiway holding positions have not been established, aircraft waiting to enter an active runway should normally hold",
+            "answers": {
+                "1": "clear of the manoeuvering area.",
+                "2": "50 ft from the edge of the runway.",
+                "3": "150 ft from the edge of the runway.",
+                "4": "200 ft from the edge of the runway."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Taxi Holding Positions"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "The manoeuvering area of an airport is that area",
+            "answers": {
+                "1": "normally referred to as the ramp or apron.",
+                "2": "which includes the apron, taxiways and runways.",
+                "3": "used when taxiing to and from the parking area.",
+                "4": "used for taxiing, taking off and landing."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 101.01 - Manoeuvering Area",
+                "TC AIM-GEN - Glossary of Aeronautical Terms"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "Except for the purpose of taking off or landing, an aircraft shall not be flown over an aerodrome at a height of less than",
+            "answers": {
+                "1": "2,000 feet AGL.",
+                "2": "1,500 feet AGL.",
+                "3": "1,000 feet AGL.",
+                "4": "500 feet AGL."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.96 - Operations at or in the Vicinity of aerodrome, General",
+                "TC AIM-RAC - Minimum Altitudes - Overflying Aerodromes"
+            ]
+        }
+    ]
+}

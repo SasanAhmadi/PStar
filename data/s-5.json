@@ -1,0 +1,171 @@
+{
+    "section": "Equipment",
+    "section_number": "5",
+    "questions": [
+        {
+            "index": "01",
+            "question": "Except for ultra-light aeroplanes and balloons, which documents shall be carried on board when flying a radio equipped Canadian privately registered aircraft? Items A, B and<br>A. Flight Authority (Certificate of Airworthiness or Flight Permit).<br>B. Certificate of Registration.<br>C. Technical Records.<br>D. Crew licenses.<br>E. Aircraft Flight Manual or equivalent document.<br>F. Type certificate.<br>G. Aircraft journey log book, where it is not planned that the aircraft will land and shutdown at any location other than the point of departure.<br>H. Proof of liability insurance.",
+            "answers": {
+                    "1": "C, D, E, G.",
+                    "2": "C, D, F, H.",
+                    "3": "D, E, F, G.",
+                    "4": "D, E, G, H."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-LRA - Radio Operator Certificate",
+                "TC AIM-LRA - Flight Authority",
+                "CARs 606.02 - Liability Insurance",
+                "CARs 605.03 - Flight Authority",
+                "CARs 605.95 - Journey Log",
+                "CARs 401.03 - Flight Crew Permit/License",
+                "CARs 202.26 - C of R"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "Taking into account seasonal climatic variations and geographical area, private aeroplanes and helicopters flying VFR 25 NM or more from an aerodrome or operating base may require",
+            "answers": {        
+                "1": "specified emergency supplies be carried.",
+                "2": "a functioning radio capable of two-way radio communication.",
+                "3": "the aircraft be multi-engined when passengers are carried.",
+                "4": "all of the above"
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.61 - Survival Equipment - Flights Over Land"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "A serviceable landing light is required equipment on aircraft",
+            "answers": {        
+                "1": "carrying passengers at night.",
+                "2": "carrying passengers at night except private aircraft under 5,700 kg.",
+                "3": "using an unlighted aerodrome.",
+                "4": "taking off or landing at night."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 605.16 - Power-driven Aircraft - Night VFR"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "Unless oxygen and oxygen masks as specified in CARs are readily available, no person shall fly unpressurized aircraft above",
+            "answers": {        
+                "1": "9,500 feet ASL.",
+                "2": "10,000 feet ASL.",
+                "3": "12,500 feet ASL.",
+                "4": "13,000 feet ASL."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 605.31 - Oxygen Equipment and Supply"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "No person shall fly an unpressurized aircraft for more than . . . . . at an altitude between 10,000 and 13,000 feet ASL unless there is readily available to each flight crew member, an oxygen mask and a supply of oxygen.",
+            "answers": {        
+                "1": "15 minutes",
+                "2": "30 minutes",
+                "3": "1 hour",
+                "4": "2 hours"
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 605.31 - Oxygen Equipment and Supply"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "What safety equipment must be available to each person on board a single-engine aircraft which is taking off from or landing on water?",
+            "answers": {        
+                "1": "An approved life raft.",
+                "2": "An approved life preserver.",
+                "3": "A signal flare.",
+                "4": "A signal mirror."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.62 - Life Preservers and Flotation Devices",
+                "CARs 602.63 - Life Rafts and Survival Equipment"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "The International VHF Emergency Frequency is",
+            "answers": {        
+                "1": "121.5 MHz.",
+                "2": "121.9 MHz.",
+                "3": "122.2 MHz.",
+                "4": "126.7 MHz."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CFS Emergency Section",
+                "TC AIM-COM - Emergency Communications",
+                "CARs 602.143 - Emergency Radio Frequency Capability"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "No pilot shall take off from or land at an aerodrome at night unless the",
+            "answers": {        
+                "1": "aircraft is equipped with a functioning two-way radio.",
+                "2": "aircraft is equipped with a functioning landing light or landing lights.",
+                "3": "aerodrome is lighted as prescribed by the Minister.",
+                "4": "pilot has completed 3 night landings in the previous 90 days."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 301.07 - Lighting"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "The CARs define an infant passenger as a person",
+            "answers": {        
+                "1": "weighing less than 30 lb (13.6 kg)",
+                "2": "under 3 years of age.",
+                "3": "weighing less than 50 lb (22.7 kg) and under 5 years of age.",
+                "4": "under 2 years of age."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 101.01 - Infant"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "When the PIC directs that safety belts be fastened, an infant passenger for which no child restraint system is provided shall be",
+            "answers": {        
+                "1": "fastened securely in a seat by means of a safety belt.",
+                "2": "held securely in the arms of the responsible an adult person whose safety belt shall be fastened.",
+                "3": "held securely in the arms of the responsible person and a safety belt shall be fastened about both.",
+                "4": "secured by any one of the above methods."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 605.25 - Entering or Leaving an Aircraft in Flight",
+                "CARs 605.26 - Parachute Descents"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "Which flight instrument systems and equipment are required on power driven aircraft for day VFR flight in controlled airspace? A magnetic direction indicating system or magnetic compass and<br>A. an airspeed indicator.<br>B. an attitude indicator.<br>C. an altimeter.<br>D. a vertical speed indicator.<br>E. a turn and bank indicator.<br>F. a time piece.<br>G. a heading indicator.",
+            "answers": {
+                "1": "A, C, F.",
+                "2": "A, B, G.",
+                "3": "A, C, D, E, F.",
+                "4": "B, D, E, G."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.59 - Equipment Standards",
+                "CARs 605.14 - Power-driven Aircraft - Day VFR"
+            ]
+        }
+    ]
+}
