@@ -5,16 +5,28 @@ body{
 }
 .question{
 	font-weight: 600;
+	color: #0D251B;
+}
+.question-box{
+	border-bottom: 2px solid #071F14;
+	padding-top: 10px;
 }
 .section{
+	padding-top : 10px;
 	font-weight: 800;
 	font-size: 30px;
+	color: #0A3622;
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,0) 21%, rgba(9,121,56,1) 69%, rgba(0,255,111,1) 100%);
 }
 .answers {
   margin-bottom: 20px;
 }
 .answers label{
   display: block;
+}
+.answer-label{
+	padding-top: 5px;
 }
 #submit{
 	font-family: sans-serif;
