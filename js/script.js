@@ -6,7 +6,7 @@
         // for each question...
         question_bank.sections.forEach(
             (currentSection, SectionNumber) => {
-                output.push(`<div class="section">${currentSection.section_number} - ${currentSection.section}</div><br>`);
+                output.push(`<div class="section">${currentSection.section_number} - ${currentSection.section}</div>`);
                 
                 currentSection.questions.forEach(
                     (currentQuestion, questionNumber) => {

@@ -4,7 +4,7 @@ body{
 	color: #333;
 }
 #quiz{
-	padding-bottom: 80px;
+	padding-bottom: 90px;
 }
 .question{
 	font-weight: 600;
@@ -15,7 +15,7 @@ body{
 	padding-top: 10px;
 }
 .section{
-	height: 55px;
+	height: 80px;
 	padding-top : 10px;
 	font-weight: 800;
 	font-size: 30px;
