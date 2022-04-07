@@ -1,0 +1,450 @@
+{
+    "section": "Communications",
+    "section_number": "3",
+    "questions": [
+        {
+            "index": "01",
+            "question": "When making initial contact with a Canadian ATC unit, the pilot of aircraft C-GFLU should transmit the manufacturer’s name or the type of aircraft, followed by registration as",
+            "answers": {
+                "1": "Lima - Uniform.",
+                "2": "Foxtrot - Lima - Uniform.",
+                "3": "Golf - Foxtrot - Lima - Uniform.",
+                "4": "Charlie - Golf - Foxtrot - Lima - Uniform."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-COM- Call Signs / Civil Aircraft"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "When making initial contact with a Canadian ATC unit, the pilot of aircraft C-FBSQ should transmit the registration as",
+            "answers": {
+                "1": "FBSQ.",
+                "2": "Fox, Baker, Sugar, Queen.",
+                "3": "Foxtrot, Bravo, Sierra, Québec.",
+                "4": "Bravo, Sierra, Québec."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-COM- Use of Phonetics",
+                "TC AIM-COM- Call Signs / Civil Aircraft"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "After a Canadian privately registered aircraft has made initial contact with an ATS unit, which items may be omitted from subsequent transmissions? The aircraft type and",
+            "answers": {
+                "1": "any registration letters omitted by ATS in the last communication.",
+                "2": "the first two letters of the registration, if initiated by ATS.",
+                "3": "the first three letters of the registration.",
+                "4": "the phonetic equivalents."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-COM- Call Signs / Civil Aircraft"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "On initial radio contact with an ATS unit the pilot shall transmit the",
+            "answers": {
+                "1": "manufacturer’s name or type of aircraft and last four letters of the registration in phonetics.",
+                "2": "last three letters of the registration in phonetics.",
+                "3": "whole registration in phonetics.",
+                "4": "type of aircraft and the last three letters of the registration in phonetics."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-COM- Call Signs / Civil Aircraft"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "ATIS is normally provided",
+            "answers": {
+                "1": "to replace the FSS.",
+                "2": "to relieve frequency congestion.",
+                "3": "for the rapid updating of weather forecasts.",
+                "4": "only when VFR conditions exist at airports."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-RAC- ATIS"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "Where ATIS is available the information which should be included on first contact with ATC is the",
+            "answers": {
+                "1": "phrase “with the numbers”.",
+                "2": "phrase “ATIS received”.",
+                "3": "phrase “with the information”.",
+                "4": "ATIS phonetic identifier."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-RAC- ATIS"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "Pilots operating VFR en route in uncontrolled airspace should continuously monitor . . . . . and 121.5 MHZ, when practical and not in communication on the MF or ATF frequency.",
+            "answers": {
+                "1": "126.7 MHz",
+                "2": "123.2 MHz",
+                "3": "122.8 MHz",
+                "4": "122.2 MHz"
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-RAC - Monitoring, Broadcasting on 126.7 MHz"
+            ]
+        },
+        {
+            "index": "08", 
+            "question": "En route aircraft should, whenever possible, maintain a listening watch for aircraft in distress on",
+            "answers": {
+                "1": "the receiver mode of the ELT.",
+                "2": "121.5 MHz on the aircraft receiver.",
+                "3": "121.5 MHz during the first 5 minutes of each hour.",
+                "4": "the voice frequency of the navigation aid in use."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-SAR- ELT Operating Instructions"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "MF procedures such as frequency, distance and altitude to follow are given in the",
+            "answers": {
+                "1": "Canada Flight Supplement (CFS) or Canada Water Aerodrome Supplement (CWAS).",
+                "2": "Designated Airspace Handbook (DAH).",
+                "3": "Transport Canada Aeronautical Information Manual (TC AIM) - TP 14371.",
+                "4": "Flight Training Manual (FTM) - TP1102."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-RAC- Mandatory Frequency"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "Pilots broadcasting on a MF where no ground station is in operation should direct their transmission to the",
+            "answers": {
+                "1": "aerodrome UNICOM.",
+                "2": "closest ATC unit.",
+                "3": "aerodrome traffic.",
+                "4": "first aircraft heard on the frequency."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-RAC- Mandatory Frequency",
+                "TC AIM-RAC- Use of MF and ATF, CARs 602.98"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intentions on the ATF of",
+            "answers": {
+                "1": "121.5 MHz.",
+                "2": "123.2 MHz.",
+                "3": "123.45 MHz.",
+                "4": "126.7 MHz."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-RAC- Aerodrome Traffic Frequency"
+            ]
+        },
+        {
+            "index": "12",
+            "question": "If a MF is in use, pilots departing VFR shall monitor that frequency until",
+            "answers": {
+                "1": "beyond the specified distance or altitude.",
+                "2": "established en route.",
+                "3": "established at cruise altitude.",
+                "4": "clear of the aerodrome circuit pattern."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-RAC- VFR Com Procedures at Aerodromes With MF and ATF",
+                "CARs 602.97 - VFR and IFR Aircraft Operations at Uncontrolled Aerodromes"
+            ]
+        },
+        {
+            "index": "13",
+            "question": "A pilot is cleared to taxi to the runway in use without a hold short clearance. To get there, the aircraft must cross two taxiways and one runway. This authorizes the pilot to taxi to",
+            "answers": {
+                "1": "the runway in use, but must hold short.",
+                "2": "the runway in use, but further clearance is required to cross each taxiway and runway en route.",
+                "3": "position on the runway without further clearance.",
+                "4": "the runway in use, but further clearance is required to cross the other runway."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-RAC - Taxi Information"
+            ]
+        },
+        {
+            "index": "14",
+            "question": "Ground control authorizes “GOLF ALPHA BRAVO CHARLIE TAXI RUNWAY 29 HOLD SHORT OF RUNWAY 04”. The pilot should acknowledge this by replying “GOLF ALPHA BRAVO CHARLIE TO",
+            "answers": {
+                "1": "RUNWAY 04”.",
+                "2": "RUNWAY 29”.",
+                "3": "HOLD SHORT OF 29”.",
+                "4": "HOLD SHORT OF 04”."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-RAC - Taxi Information"
+            ]
+        },
+        {
+            "index": "15",
+            "question": "When a clearance for an “immediate take-off” is accepted, the pilot shall",
+            "answers": {
+                "1": "back-track on the runway to use the maximum available length for take-off.",
+                "2": "taxi to a full stop in position on the runway and take off without further clearance.",
+                "3": "taxi onto the runway and take off in one continuous movement.",
+                "4": "complete the pre-take-off check before taxiing onto the runway and taking off."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-RAC - Takeoff Clearance"
+            ]
+        },
+        {
+            "index": "16",
+            "question": "A pilot flying a heading of 270°, receives the following message from ATC, “Traffic 2 o’clock, 5 miles, eastbound”. This information indicates the traffic is",
+            "answers": {
+                "1": "60° to the left, altitude unknown.",
+                "2": "60° to the right, altitude unknown.",
+                "3": "90° to the right, at same altitude.",
+                "4": "90° to the left, at same altitude."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-RAC - Radar Traffic Information"
+            ]
+        },
+        {
+            "index": "17",
+            "question": "A pilot receives the following ATC clearance “CLEARED TO LAND, TURN RIGHT AT THE FIRST INTERSECTION”. The pilot should",
+            "answers": {
+                "1": "land and attempt to turn off even though the speed is considered too high to safely accomplish the turn.",
+                "2": "complete a touch-and-go if it is not possible to safely accomplish the turn.",
+                "3": "land and turn off at the nearest intersection possible commensurate with safety.",
+                "4": "land and do a 180° turn and taxi back to clear the runway at the required intersection."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "CAR 602.31 - Compliance with Air Traffic Control Instructions and Clearances"
+            ]
+        },
+        {
+            "index": "18",
+            "question": "The radiotelephone distress signal to indicate serious and/or imminent danger requiring immediate assistance is",
+            "answers": {
+                "1": "MAYDAY, MAYDAY, MAYDAY.",
+                "2": "PAN PAN, PAN PAN, PAN PAN.",
+                "3": "SECURITY, SECURITY, SECURITY.",
+                "4": "EMERGENCY, EMERGENCY, EMERGENCY."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-COM - Emergency Communications",
+                "TC AIM-SAR - Declaring an Emergency",
+                "RTORC - Distress Communications"
+            ]
+        },
+        {
+            "index": "19",
+            "question": "The radiotelephone urgency signal to indicate a condition concerning the safety of an aircraft, vehicle or of some person on board which does not require immediate assistance is",
+            "answers": {
+                "1": "MAYDAY, MAYDAY, MAYDAY.",
+                "2": "PAN PAN, PAN PAN, PAN PAN.",
+                "3": "EMERGENCY, EMERGENCY, EMERGENCY.",
+                "4": "URGENCY, URGENCY, URGENCY."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "RTORC - Urgency Communications",
+                "TC AIM-COM - Emergency Communications",
+                "TC AIM-SAR - Declaring an Emergency"
+            ]
+        },
+        {
+            "index": "20",
+            "question": "What should be included along with the call sign of the aircraft and time, to indicate cancellation of a distress message?",
+            "answers": {
+                "1": "MAYDAY(three times) , ALL STATIONS, DISTRESS TRAFFIC ENDED, OUT.",
+                "2": "MAYDAY(once), HELLO ALL STATIONS (three times),THIS IS (the call sign of the station transmitting the message, the filing time of the message, the call sign of the station in distress (once)), SEELONCE FEENEE, OUT.",
+                "3": "MAYDAY CANCELLED (three times).",
+                "4": "ALL STATIONS (three times), EMERGENCY OVER."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "RTORC - Cancellation of Distress"
+            ]
+        },
+        {
+            "index": "21",
+            "question": "A departing flight will normally remain on tower frequency until",
+            "answers": {
+                "1": "the flight is 2,000 feet AGL.",
+                "2": "25 NM from the airport.",
+                "3": "15 NM from the Control Zone.",
+                "4": "clear of the Control Zone."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-RAC - Release from Tower Frequency"
+            ]
+        },
+        {
+            "index": "22",
+            "question": "You advise ATC that you are on the downwind leg. If there is other traffic in the circuit, ATC will then",
+            "answers": {
+                "1": "inform you of your number in the approach sequence or other appropriate instructions.",
+                "2": "inform you of the runway in use, wind and altimeter.",
+                "3": "advise you of all other circuit traffic.",
+                "4": "clear you to land."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-RAC - Initial Clearance"
+            ]
+        },
+        {
+            "index": "23",
+            "question": "A radio equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by",
+            "answers": {
+                "1": "replying ‘Roger’.",
+                "2": "replying ‘Wilco’.",
+                "3": "clicking the microphone button.",
+                "4": "transmitting the aircraft call sign."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-COM - Standard Radio Telephony"
+            ]
+        },
+        {
+            "index": "24",
+            "question": "An initial call to Timmins FSS should be ‘Timmins",
+            "answers": {
+                "1": "radio this is...’",
+                "2": "Flight Service Station this is...’",
+                "3": "UNICOM this is...’",
+                "4": "this is...’"
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-COM - Ground Stations"
+            ]
+        },
+        {
+            "index": "25",
+            "question": "A responsibility of a Flight Information Center (FIC) specialist is to provide",
+            "answers": {
+                "1": "air traffic control.",
+                "2": "flight planning services.",
+                "3": "air traffic service in uncontrolled airspace only.",
+                "4": "terminal radar service."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-RAC - Flight Service Station (FSS) provides"
+            ]
+        },
+        {
+            "index": "26",
+            "question": "NOTAMs are",
+            "answers": {
+                "1": "available at all flight information centres (FIC)",
+                "2": "emailed to all pilots.",
+                "3": "issued for airport/aerodrome facility closures only.",
+                "4": "valid for 24 hours."
+            },
+            "correctAnswer": "1",
+            "references":[
+                "TC AIM-MAP - NOTAM Distribution - Canadian"
+            ]
+        },
+        {
+            "index": "27",
+            "question": "A new or replacing NOTAM without the term “EST” is valid",
+            "answers": {
+                "1": "for 48 hours only.",
+                "2": "for the day it was issued.",
+                "3": "until the End Time quoted in the NOTAM.",
+                "4": "until a cancelling NOTAM is issued."
+            },
+            "correctAnswer": "3",
+            "references":[
+                "TC AIM-MAP - New NOTAM"
+            ]
+        },
+        {
+            "index": "28",
+            "question": "The term “EST” in the End Time in a new or replacing NOTAM means the NOTAM is valid",
+            "answers": {
+                "1": "for an estimated 24 hours.",
+                "2": "for an estimated 48 hours.",
+                "3": "until the time quoted in the NOTAM.",
+                "4": "until a cancelling (NOTAMC) or replacing (NOTAMR) is issued."
+            },
+            "correctAnswer": "4",
+            "references":[
+                "TC AIM-MAP - New NOTAM"
+            ]
+        },
+        {
+            "index": "29",
+            "question": "ATC advises that your radio transmissions are READABILITY THREE this means that your transmissions are",
+            "answers": {
+                "1": "readable now and then.",
+                "2": "readable with difficulty.",
+                "3": "readable.",
+                "4": "perfectly readable."
+            },
+            "correctAnswer": "2",
+            "references":[
+                "TC AIM-COM - Communications Checks"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
