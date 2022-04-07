@@ -27,7 +27,7 @@
                             answers.push(
                                 `<label class="answer-label">
                                 <input type="radio" name="question_${currentSection.section_number + '_' + currentQuestion.index}" value="${answerKey}">
-                                ${currentQuestion.answers[answerKey]}
+                                <div class="answer-text">${currentQuestion.answers[answerKey]}</div>
                                 </label>`
                             );
                             index++

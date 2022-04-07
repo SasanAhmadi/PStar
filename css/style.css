@@ -24,13 +24,7 @@ body{
 	background: linear-gradient(90deg, rgba(245,254,247,1) 0%, rgba(200,253,204,1) 33%, rgba(1,118,9,1) 100%)
 }
 .answers {
-  margin-bottom: 20px;
-}
-.answers label{
-  display: block;
-}
-.answer-label{
-	padding-top: 5px;
+	margin-bottom: 20px;
 }
 #submit{
 	font-family: sans-serif;
@@ -42,6 +36,16 @@ body{
 	padding: 20px;
 	cursor: pointer;
 	margin-bottom: 20px;
+}
+input[type=radio] {
+    float: left;
+	display: block;
+	margin-top: 10px;
+}
+.answer-text{
+	margin-left: 25px;
+	padding-top: 4px;
+    display: block;
 }
 #submit:hover{
 	background-color: #38a;
@@ -94,6 +98,13 @@ body{
 		padding-bottom: 170px;
 	}
 	input[type='radio'] { 
-		transform: scale(1.7); 
+		transform: scale(2.5); 
+		margin-top: 19px;
+		margin-left: 10px;
+	}
+	.answer-text{
+		margin-left: 40px;
+		padding-top: 7px;
+		display: block;
 	}
 }
