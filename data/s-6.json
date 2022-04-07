@@ -1,0 +1,337 @@
+{
+    "section": "Pilot Responsibilities",
+    "section_number": "6",
+    "questions": [
+        {
+            "index": "01",
+            "question": "If cleared for take-off immediately following the very low approach and overshoot of a large aircraft, the pilot should",
+            "answers": {
+                    "1": "take off immediately otherwise the trailing vortices will descend into the flight path.",
+                    "2": "taxi to position on the runway and wait until it is considered safe to take off.",
+                    "3": "decline take-off clearance and inform ATC of the reason for non-acceptance.",
+                    "4": "wait for 2 minutes after the large aircraft has passed then take off."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "Flight Training Manual Chapter 16 - Take-Off"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "The controller offers the option for a take-off from a runway intersection. The pilot must be aware that",
+            "answers": {
+                    "1": "the remaining runway length will not be stated by the controller.",
+                    "2": "it is the pilot’s responsibility to ensure that the remaining runway length is sufficient for take-off.",
+                    "3": "the controller will ensure that the remaining runway length is sufficient for take-off.",
+                    "4": "noise abatement procedures have been cancelled."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-RAC - Take-off Clearance",
+                "CARs 602.96 - Operations at or in the Vicinity of an Aerodrome - General"        
+            ]
+        },
+        {
+            "index": "03",
+            "question": "A pilot requests an intersection take-off from ATC. If authorized,",
+            "answers": {
+                    "1": "the controller will always give the remaining runway length.",
+                    "2": "the controller will ensure that the remaining runway length is sufficient for take-off.",
+                    "3": "it is the pilot’s responsibility to ensure that the remaining runway length is sufficient for take-off.",
+                    "4": "any noise abatement procedures for the runway are automatically cancelled."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Take-off Clearance",
+                "CARs 602.96 - Operations at or in the Vicinity of an Aerodrome - General"     
+            ]
+        },
+        {
+            "index": "04",
+            "question": "When an arriving aircraft is cleared “to the circuit”, the pilot should interpret this to mean join the circuit",
+            "answers": {
+                    "1": "on the downwind leg at circuit height.",
+                    "2": "from the upwind side of the runway in all cases.",
+                    "3": "on base leg if convenient.",
+                    "4": "on final for a straight in approach."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-RAC - Initial Clearance"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "When a NORDO aircraft crosses an airport for the purpose of obtaining landing information it should maintain",
+            "answers": {
+                    "1": "circuit height.",
+                    "2": "1,000 feet above circuit height.",
+                    "3": "at least 2,000 feet AGL.",
+                    "4": "at least 500 feet above circuit height."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Arrival Procedures - NORDO Aircraft"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "An aircraft is “cleared to the circuit” where a left hand circuit is in effect. Without further approval from ATC a right turn may be made to",
+            "answers": {
+                    "1": "join the final leg.",
+                    "2": "join the base leg.",
+                    "3": "join cross-wind or a partial right turn to join the downwind leg.",
+                    "4": "descend on the downwind leg."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Initial Clearance"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "When instructed to continue an approach to a runway which is clear of traffic, what action should the pilot take if no landing clearance is received?",
+            "answers": {
+                    "1": "Circle 360° to the left.",
+                    "2": "Circle 360° in the direction of the circuit.",
+                    "3": "Complete the landing.",
+                    "4": "Request landing clearance."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Landing Clearance"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "A NOTAM has been published for an airport, which is 400 feet ASL, stating the circuit height is 1,500 feet ASL. When the ceiling is 1,000 overcast and the visibility is 3 miles, the circuit height in controlled airspace should be",
+            "answers": {
+                    "1": "500 feet below the cloud base.",
+                    "2": "1,500 feet ASL.",
+                    "3": "1,100 feet above the airport elevation.",
+                    "4": "1,000 feet above the airport elevation"
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "When the reported ceiling is 1,000 feet overcast and visibility is 3 miles, to remain VFR, an aircraft cleared to the circuit must join",
+            "answers": {
+                    "1": "as high as possible without entering cloud.",
+                    "2": "at 500 feet below cloud base.",
+                    "3": "at 700 feet AGL.",
+                    "4": "in accordance with Special VFR."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "Aircraft flying VFR normally join the circuit at 1,000 feet AAE. This may not always be possible because of",
+            "answers": {
+                    "1": "the possibility of a “straight in” clearance to the airport in which case the final leg would normally be entered at less than 1,000 feet.",
+                    "2": "the existence of a NOTAM which provides for a different circuit altitude.",
+                    "3": "weather conditions which may necessitate a circuit height lower than 1,000 feet.",
+                    "4": "the existence of any of the above circumstances."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Traffic Circuits - Controlled Airports"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "A pilot on final approach is requested by ATC to reduce airspeed. The pilot should",
+            "answers": {
+                    "1": "comply, giving due consideration to safe minimum manoeuvering speed of the aircraft.",
+                    "2": "acknowledge transmission and execute a 360° turn.",
+                    "3": "overshoot and rejoin the circuit.",
+                    "4": "reduce airspeed well below normal approach speed range."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "TC AIM-RAC - Speed Adjustment - Radar Controlled Aircraft",
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances"
+            ]
+        },
+        {
+            "index": "12",
+            "question": "A pilot is cleared to land but is concerned about the high cross-wind component. The pilot should",
+            "answers": {
+                    "1": "use full flaps and approach at a reduced speed.",
+                    "2": "alter heading and land on another runway which is more into wind.",
+                    "3": "overshoot and request an into-wind runway.",
+                    "4": "continue the approach and land as the clearance must be obeyed."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Preferential Runway Assignment",
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances"
+            ]
+        },
+        {
+            "index": "13",
+            "question": "A pilot on a VFR flight is being vectored by ATC towards an extensive unbroken layer of cloud. The responsibility for remaining VFR rests with",
+            "answers": {
+                    "1": "the radar operator.",
+                    "2": "ATC since the flight is designated VFR.",
+                    "3": "ATC since the cloud is visible on radar.",
+                    "4": "the pilot."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Radar Navigation Assistance To VFR Flights"
+            ]
+        },
+        {
+            "index": "14",
+            "question": "A student pilot on a VFR flight has been given a radar vector by ATC. Ahead, at a lower altitude, is a solid overcast cloud condition. The pilot should",
+            "answers": {
+                    "1": "climb above the cloud and fly “VFR over the top”.",
+                    "2": "alter heading as necessary to remain VFR and advise ATC.",
+                    "3": "maintain heading and altitude as it is an ATC clearance.",
+                    "4": "maintain heading and altitude because ATC knows of the cloud and will issue further instructions."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-RAC - Radar Navigation Assistance To VFR Flights"
+            ]
+        },
+        {
+            "index": "15",
+            "question": "An aircraft on a Special VFR flight has been cleared for a “straight in” approach. Because of low ceiling and poor visibility, the pilot is concerned about the exact location of a radio mast in the vicinity. Avoiding this obstruction is the responsibility",
+            "answers": {
+                    "1": "of the pilot.",
+                    "2": "of the tower controller as the controller is aware of the obstruction.",
+                    "3": "of ATC as the pilot has been given Special VFR clearance.",
+                    "4": "shared equally by the pilot and the controller."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "16",
+            "question": "A pilot on a Special VFR flight has been cleared to the circuit. Ahead, at a lower altitude, is a solid layer of stratus cloud. Remaining clear of cloud is the responsibility of",
+            "answers": {
+                    "1": "the tower controller as it is within a Control Zone.",
+                    "2": "ATC because the weather is below VFR.",
+                    "3": "the pilot and ATC.",
+                    "4": "the pilot."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "TC AIM-RAC - Control Zones"
+            ]
+        },
+        {
+            "index": "17",
+            "question": "A pilot on a VFR flight in Class C airspace is advised by ATC to maintain a specific heading. In the pilot’s opinion, this heading will cause conflict with another aircraft. The pilot should",
+            "answers": {
+                    "1": "always change altitude as required to avoid the other aircraft.",
+                    "2": "maintain the specified heading to comply with the CARs.",
+                    "3": "alter heading to avoid the other aircraft and advise ATC.",
+                    "4": "maintain the specified heading as separation will be provided by the controller."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "CARs 602.19 - Right of Way - General"
+            ]
+        },
+        {
+            "index": "18",
+            "question": "Unless ATC instructs otherwise, pilots operating VFR shall select transponder code 1200 when flying at or below ..... feet ASL and code ..... when flying above that altitude.",
+            "answers": {
+                    "1": "12,500, 1400.",
+                    "2": "12,500, 1300.",
+                    "3": "10,000, 1400.",
+                    "4": "10,000, 1300."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-COM - VFR Operations"
+            ]
+        },
+        {
+            "index": "19",
+            "question": "Pilots shall activate the transponder “ident” feature",
+            "answers": {
+                    "1": "before entering control zones.",
+                    "2": "only when so instructed by ATC.",
+                    "3": "before every change of altitude.",
+                    "4": "after every change of an assigned code."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-COM - Phraseology"
+            ]
+        },
+        {
+            "index": "20",
+            "question": "The holder of a student pilot permit may for the sole purpose of the holder’s own flight training act as PIC of an aircraft",
+            "answers": {
+                    "1": "only when accompanied by a flight instructor.",
+                    "2": "by day and night and authorized by a supervising flight instructor.",
+                    "3": "by day only and authorized by a supervising flight instructor.",
+                    "4": "while carrying passengers."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 401.19 - Student Pilot Permits - Privileges"
+            ]
+        },
+        {
+            "index": "21",
+            "question": "The PIC of an aircraft shall comply with any light signals or ground marking prescribed in the CARs",
+            "answers": {
+                    "1": "only while in class C airspace if they are part of an ATC clearance.",
+                    "2": "only while in a Control Zone if they are part of an ATC instruction.",
+                    "3": "at all times.",
+                    "4": "at all times provided safety is not jeopardized."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - ATC Clearances, Instructions and Information",
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances"
+            ]
+        },
+        {
+            "index": "22",
+            "question": "Before setting out on any VFR flight, a pilot is required to",
+            "answers": {
+                    "1": "read all weather reports received from stations within 100 miles of destination.",
+                    "2": "file a flight itinerary.",
+                    "3": "be familiar with all available information appropriate to the flight.",
+                    "4": "obtain an ATC clearance."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.71 - Pre-flight Information"
+            ]
+        },
+        {
+            "index": "23",
+            "question": "Terminal airspace dimensions and VHF sector frequencies for certain high density traffic airports in Canada are shown",
+            "answers": {
+                    "1": "in the Designated Airspace Handbook and the TC AIM.",
+                    "2": "on the VTA chart and in the CFS.",
+                    "3": "on the VTA and VNC charts.",
+                    "4": "in the CFS and on the VNC chart."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-MAP - VFR Aeronautical Information"
+            ]
+        }
+    ]
+}
