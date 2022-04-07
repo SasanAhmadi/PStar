@@ -6,7 +6,7 @@
         // for each question...
         question_bank.sections.forEach(
             (currentSection, SectionNumber) => {
-                output.push(`<div class="section">${currentSection.section}</div><br>`);
+                output.push(`<div class="section">${currentSection.section_number} - ${currentSection.section}</div><br>`);
                 
                 currentSection.questions.forEach(
                     (currentQuestion, questionNumber) => {
@@ -25,7 +25,7 @@
                             answerKey = shuffledKeys[key]
                             // ...add an HTML radio button
                             answers.push(
-                                `<label>
+                                `<label class="answer-label">
                                 <input type="radio" name="question_${currentSection.section_number + '_' + currentQuestion.index}" value="${answerKey}">
                                 ${currentQuestion.answers[answerKey]}
                                 </label>`
@@ -35,8 +35,10 @@
 
                         // add this question and its answers to the output
                         output.push(
-                            `<div class="question"> ${currentQuestion.question} </div>
-                            <div class="answers"> ${answers.join('')} </div>`
+                            `<div class="question-box">
+                            <div class="question">${currentSection.section_number}.${currentQuestion.index} ${currentQuestion.question} </div>
+                            <div class="answers"> ${answers.join('')} </div>
+                            </div>`
                         );
                     }
                 )
@@ -102,6 +104,8 @@
     question_bank.sections.push(await loadQuestions("data/s-1.json"));
     question_bank.sections.push(await loadQuestions("data/s-2.json"));
     question_bank.sections.push(await loadQuestions("data/s-3.json"));
+    question_bank.sections.push(await loadQuestions("data/s-4.json"));
+    question_bank.sections.push(await loadQuestions("data/s-5.json"));
 
     // Kick things off
     buildQuiz();
