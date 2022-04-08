@@ -1,0 +1,191 @@
+{
+    "section": "Aeromedical",
+    "section_number": "8",
+    "questions": [
+        {
+            "index": "01",
+            "question": "A flight crew member aware of being under a physical disability that might invalidate license issue or renewal shall",
+            "answers": {
+                "1": "so advise the Minister.",
+                "2": "not commence a flight as a crew member.",
+                "3": "forward the license to the Regional Aviation Medical Officer.",
+                "4": "fly as crew member only if a back-up member is available."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 404.06 - Prohibition Regarding Exercise of Privileges"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "What is the recommended treatment for hyperventilation below 8,000 feet?",
+            "answers": {
+                "1": "Increase the depth of breathing.",
+                "2": "Hold the breath and perform a Valsalva manoeuver.",
+                "3": "Slow the breathing rate to below 12 times per minute.",
+                "4": "Increase oxygen flow rates."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-AIR - Hyperventilation"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "Damage to the ear drum in flight is most likely to occur",
+            "answers": {
+                "1": "during a climb.",
+                "2": "during a descent.",
+                "3": "when using supplementary oxygen.",
+                "4": "after SCUBA diving."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Middle Ear and Sinus Discomfort or Pain"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "Clearing the ears on a rapid descent may be assisted by",
+            "answers": {
+                "1": "swallowing.",
+                "2": "opening the mouth widely or yawning.",
+                "3": "a Valsalva manoeuver.",
+                "4": "all of the above."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-AIR - Middle Ear and Sinus Discomfort or Pain"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "Flight crew members who require decompression stops on the way to the surface when SCUBA diving should not fly for",
+            "answers": {
+                "1": "4 hours.",
+                "2": "8 hours.",
+                "3": "12 hours.",
+                "4": "24 hours."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-AIR - SCUBA Diving"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "With regard to fatigue, which statement is correct according to the information given under the “Medical Information” section of the TC AIM?",
+            "answers": {
+                "1": "Financial or family problems do not influence tolerance to fatigue.",
+                "2": "Fatigue slows reaction time and causes foolish inattentive errors.",
+                "3": "A fatigued person recuperates more quickly as altitude is gained.",
+                "4": "A fatigued person must have food immediately before and during flight."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Fatigue"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "A pilot who has donated blood should not act as a flight crew member for at least the next",
+            "answers": {
+                "1": "12 hours.",
+                "2": "24 hours.",
+                "3": "36 hours.",
+                "4": "48 hours."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-AIR - Blood Donation"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "Any pilot who has had a general anaesthetic should not act as a flight crew member",
+            "answers": {
+                "1": "during the next 12 hrs.",
+                "2": "during the next 36 hrs.",
+                "3": "during the next 48 hrs.",
+                "4": "unless advised it is safe to do so by a doctor."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-AIR - Anesthetics"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "Any pilot who has had a local anaesthetic for extensive dental procedures should not act as a flight crew member during the next",
+            "answers": {
+                "1": "12 hrs.",
+                "2": "24 hrs.",
+                "3": "36 hrs.",
+                "4": "48 hrs."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Anesthetics"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "Relatively small amounts of alcohol affect tolerance to hypoxia (lack of sufficient oxygen). This tolerance",
+            "answers": {
+                "1": "deteriorates with increase of altitude.",
+                "2": "improves with increase of altitude.",
+                "3": "is not affected by altitude change.",
+                "4": "remains constant to 6,000 feet ASL."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-AIR - Alcohol"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over-the-counter remedies may seriously impair the judgement and co-ordination needed while flying. The safest rule is to",
+            "answers": {
+                "1": "read the manufacturer’s warning to ensure that you are aware of possible reactions to such drugs.",
+                "2": "take no medicine when you plan to fly, except on the advice of a Civil Aviation",
+                "3": "Medical Examiner…",
+                "4": "allow at least 12 hours between taking any medicine or drugs and flying.",
+                "5": "allow at least 8 hours between taking any medicine or drugs and flying."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Drugs"
+            ]
+        },
+        {
+            "index": "12",
+            "question": "The Canadian Medical Certificate of a private pilot 40 years old and over is valid, in Canada, for a period of",
+            "answers": {
+                "1": "12 months.",
+                "2": "24 months.",
+                "3": "36 months.",
+                "4": "48 months."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 424.04 - Issuance and Validity Period of Medical Certificate",
+                "TC AIM-LRA - Medical Validity Periods"
+            ]
+        },
+        {
+            "index": "13",
+            "question": "The Canadian Medical Certificate of a private pilot under 40 years of age is valid, in Canada, for a period of",
+            "answers": {
+                "1": "72 months.",
+                "2": "60 months.",
+                "3": "48 months.",
+                "4": "24 months."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 424.04 - Issuance and Validity Period of Medical Certificate",
+                "TC AIM-LRA - Medical Validity Periods"
+            ]
+        }
+    ]
+}

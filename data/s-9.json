@@ -1,0 +1,167 @@
+{
+    "section": "Flight Plans and Flight Itineraries",
+    "section_number": "9",
+    "questions": [
+        {
+            "index": "01",
+            "question": "The amount of fuel and oil carried on board any helicopter at the commencement of a day VFR flight must be sufficient, to provide for foreseeable delays having been considered, to fly to the destination aerodrome,",
+            "answers": {
+                "1": "and thereafter for 45 minutes at normal cruising speed.",
+                "2": "then to a specified alternate and thereafter for 45 minutes at normal cruising speed.",
+                "3": "and thereafter for 20 minutes at normal cruising speed.",
+                "4": "then to a specified alternate and thereafter for 20 minutes at normal cruising speed."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.88 - Fuel Requirements",
+                "TC AIM-RAC - Fuel Requirements"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "The amount of fuel carried on board any propeller-driven aeroplane at the commencement of a day VFR flight must be sufficient, having regard to the meteorological conditions and foreseeable delays that are expected in flight, to fly to the destination aerodrome",
+            "answers": {
+                "1": "and then fly for a period of 45 minutes at normal cruising speed.",
+                "2": "and then fly for a period of 30 minutes at normal cruising speed.",
+                "3": "then to a specified alternate aerodrome and then for a period of 45 minutes at normal cruising speed.",
+                "4": "then to a specified alternate aerodrome and then fly for a period of 30 minutes at normal cruising speed."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.88 - Fuel Requirements",
+                "TC AIM-RAC - Fuel Requirements"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "If a flight plan is not filed, a flight itinerary must be filed",
+            "answers": {
+                "1": "for flights proceeding 25 NM or more from the point of origin.",
+                "2": "only for flights in sparsely settled areas.",
+                "3": "for flights destined to land at aerodromes or places other than the point of origin.",
+                "4": "for all flights."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.73 - Requirement to File a Flight Plan or a Flight Itinerary",
+                "TC AIM-RAC - Flight Plans and Flight Itineraries, When Required"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "After landing from a VFR flight for which a flight plan has been filed, the pilot shall report the arrival to the appropriate ATS unit within",
+            "answers": {
+                "1": "15 minutes.",
+                "2": "30 minutes.",
+                "3": "45 minutes.",
+                "4": "60 minutes."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.77 - Requirement to file an Arrival Report",
+                "TC AIM-RAC - Closing a Flight Plan"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "When there is a deviation from a VFR flight plan, ATC shall be notified of such deviation",
+            "answers": {
+                "1": "as soon as possible.",
+                "2": "within 10 minutes.",
+                "3": "within 30 minutes.",
+                "4": "within 60 minutes after landing."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.76 - Changes in a Flight Plan",
+                "TC AIM-RAC - Changes to the Information in a Flight Plan or Flight Itinerary"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "Where no search and rescue initiation time is specified in a flight itinerary, when shall the pilot report to the “responsible person”?",
+            "answers": {
+                "1": "Within one hour after the expiration of the estimated duration of the flight specified in the flight itinerary.",
+                "2": "Within one hour after landing.",
+                "3": "Within 24 hours after the expiration of the estimated duration of the flight specified in the flight itinerary.",
+                "4": "As soon as practicable after landing but no later than 24 hours after the last reported ETA."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.77 - Requirement to file an Arrival Report",
+                "TC AIM-RAC - Closing a Flight Plan"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "With regard to a flight itinerary, the “responsible person” means an individual who",
+            "answers": {
+                "1": "has agreed to report the aircraft overdue.",
+                "2": "is 18 years of age or over.",
+                "3": "holds an aeronautical license.",
+                "4": "has agreed to report the arrival of the aircraft."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.70 - Flight Preparation, Flight Plans and Flight Itineraries, Interpretation, TC AIM-RAC - Filing"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "Where a VFR flight plan has been filed, an arrival report must be filed by the pilot",
+            "answers": {
+                "1": "by advising an ATS unit.",
+                "2": "at each intermediate stop and then reopened on take-off.",
+                "3": "by parking the aircraft in close proximity to the tower.",
+                "4": "except at airports served by a control tower in which case the controller will automatically file the arrival report."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.77 - Requirement to file an Arrival Report",
+                "TC AIM-RAC - Closing a Flight Plan"        
+            ]
+        },
+        {
+            "index": "09",
+            "question": "Estimated elapsed time A to B --------- 1 hour 15 minutes.<br>Estimated stopover time at B  --------- 30 minutes.<br>Estimated elapsed time B to C --------- 1 hour 20 minutes.<br><br>Using the above information, what time should be entered in the “Elapsed Time” box of a VFR flight plan?",
+            "answers": {
+                "1": "3 hours 50 minutes.",
+                "2": "3 hours 20 minutes.",
+                "3": "3 hours 05 minutes.",
+                "4": "2 hours 35 minutes."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Intermediate stops"
+            ]
+        },
+        {
+        "index": "10",
+        "question": "When filing a VFR flight plan with an intermediate stop, the total elapsed time to be entered is the total",
+        "answers": {
+            "1": "elapsed time for all legs including the duration of the intermediate stop.",
+            "2": "elapsed time for all legs, plus the intermediate stop, plus 45 minutes.",
+            "3": "flight time for all legs.",
+            "4": "elapsed time to the first landing plus intermediate stops."
+        },
+        "correctAnswer": "1",
+        "references": [
+            "TC AIM-RAC - Intermediate stops"
+        ]
+        },
+        {
+        "index": "11",
+        "question": "How is an intermediate stop indicated on the flight plan form for a VFR flight?",
+        "answers": {
+            "1": "By including duration of the intermediate stop in 'Elapsed Time' box as ATC automatically checks time between points.",
+            "2": "Same as any VFR flight plan if the intermediate time does not exceed 30 minutes at each point.",
+            "3": "By repeating the name of intermediate stop and its duration in the 'Route' column.",
+            "4": "By simply indicating “Intermediate Stop” in “Other Information” column."
+        },
+        "correctAnswer": "3",
+        "references": [
+            "TC AIM-RAC - Intermediate stops"
+        ]
+        }
+    ]
+}
