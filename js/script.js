@@ -6,7 +6,7 @@
         // for each question...
         question_bank.sections.forEach(
             (currentSection, SectionNumber) => {
-                output.push(`<div class="section">${currentSection.section_number} - ${currentSection.section}</div>`);
+                output.push(`<div id="s${SectionNumber}" class="section">${currentSection.section_number} - ${currentSection.section}<a href="#s${SectionNumber + 1}"><i class="arrow down"></i></a><a href="#s${SectionNumber - 1}"><i class="arrow up"></i></a></div>`);
                 
                 currentSection.questions.forEach(
                     (currentQuestion, questionNumber) => {
