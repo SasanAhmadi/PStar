@@ -107,6 +107,9 @@
     question_bank.sections.push(await loadQuestions("data/s-4.json"));
     question_bank.sections.push(await loadQuestions("data/s-5.json"));
     question_bank.sections.push(await loadQuestions("data/s-6.json"));
+    question_bank.sections.push(await loadQuestions("data/s-7.json"));
+    question_bank.sections.push(await loadQuestions("data/s-8.json"));
+    question_bank.sections.push(await loadQuestions("data/s-9.json"));
 
     // Kick things off
     buildQuiz();
