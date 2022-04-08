@@ -5,7 +5,7 @@
         {
             "index": "01",
             "question": "‘Controlled Airspace’ means all airspace of defined dimensions within which",
-            "answer": {
+            "answers": {
                 "1": "Control Zone regulations are in force.",
                 "2": "security regulations are in force.",
                 "3": "Special VFR flight only is permitted.",
@@ -21,7 +21,7 @@
         {
             "index": "02",
             "question": "When in VFR flight within controlled airspace, a pilot must remain clear of cloud by at least",
-            "answer": {
+            "answers": {
                 "1": "500 feet vertically and 1 mile horizontally.",
                 "2": "500 feet vertically and 2,000 feet horizontally.",
                 "3": "1,000 feet vertically and 1 mile horizontally.",
@@ -37,7 +37,7 @@
         {
             "index": "03",
             "question": "The minimum flight visibility for VFR flight within a low level airway is",
-            "answer": {
+            "answers": {
                 "1": "1 mile.",
                 "2": "1½ miles.",
                 "3": "2 miles.",
@@ -53,7 +53,7 @@
         {
             "index": "04",
             "question": "When in VFR flight within a Control Zone, a pilot must remain clear of cloud by at least",
-            "answer": {
+            "answers": {
                 "1": "500 feet vertically and 2,000 feet horizontally.",
                 "2": "500 feet vertically and 1 mile horizontally.",
                 "3": "1,000 feet vertically and 1 mile horizontally.",
@@ -69,7 +69,7 @@
         {
             "index": "05",
             "question": "VFR cross-country pilots wishing to cross through any part of a Class C Control Zone should",
-            "answer": {
+            "answers": {
                 "1": "advise the associated FSS.",
                 "2": "monitor the Approach Control frequency.",
                 "3": "advise ATC of their intentions and obtain a clearance.",
@@ -85,7 +85,7 @@
         {
             "index": "06",
             "question": "ATC may authorize an aircraft equipped with a functioning two-way radio to transit a Control Zone under day SVFR provided the flight visibility and, when reported, ground visibility, are each not less than",
-            "answer": {
+            "answers": {
                 "1": "1/2 mile.",
                 "2": "1 mile.",
                 "3": "2 miles.",
@@ -101,7 +101,7 @@
         {
             "index": "07",
             "question": "ATC may authorize a helicopter equipped with a functioning two-way radio to transit a Control Zone under day SVFR where the flight visibility and, when reported, ground visibility are each not less than",
-            "answer": {
+            "answers": {
                 "1": "1 mile and operated at not less than 500 feet AGL.",
                 "2": "1/2 mile.",
                 "3": "1 mile.",
@@ -117,7 +117,7 @@
         {
             "index": "08",
             "question": "An aircraft flying in accordance with Special VFR would be flying within",
-            "answer": {
+            "answers": {
                 "1": "a Control Zone.",
                 "2": "an Aerodrome Traffic Zone.",
                 "3": "a Terminal Control Area.",
@@ -133,7 +133,7 @@
         {
             "index": "09",
             "question": "An arriving VFR flight shall make initial radio contact with the control tower",
-            "answer": {
+            "answers": {
                 "1": "upon entering an Aerodrome Traffic Zone.",
                 "2": "prior to entering a Control Zone.",
                 "3": "immediately prior to joining the circuit.",
@@ -149,7 +149,7 @@
         {
             "index": "10",
             "question": "VFR flight within Class B airspace is permitted",
-            "answer": {
+            "answers": {
                 "1": "only when the flight visibility is 5 miles or better.",
                 "2": "for all aircraft except gliders and balloons.",
                 "3": "if the pilot holds a Class B Airspace Endorsement.",
@@ -165,7 +165,7 @@
         {
             "index": "11",
             "question": "The pilot of an arriving VFR flight shall make initial radio contact with a control tower in Class C airspace",
-            "answer": {
+            "answers": {
                 "1": "immediately after entering the Control Zone.",
                 "2": "10 NM outside the Control Zone.",
                 "3": "prior to entering the Control Zone.",
@@ -182,7 +182,7 @@
         {
             "index": "12",
             "question": "Unless otherwise authorized, a pilot on a VFR flight operating within a Class C terminal control area must",
-            "answer": {
+            "answers": {
                 "1": "exit the airspace whenever the weather deteriorates below VFR limits.",
                 "2": "establish radio contact with the appropriate ATC unit only when transiting the associated control zone.",
                 "3": "establish and maintain radio communication with the appropriate ATC Unit.",
