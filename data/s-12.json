@@ -1,0 +1,312 @@
+{
+    "section": "Regulations - General Airspace",
+    "section_number": "12",
+    "questions": [
+        {
+            "index": "01",
+            "question": "ADIZ rules normally apply",
+            "answers": {
+                "1": "only to aircraft flying above 12,500 feet.",
+                "2": "only to aircraft flying at true airspeeds of 180 kt or more.",
+                "3": "only to all southbound aircraft.",
+                "4": "to all aircraft."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.145 - ADIZ",
+                "TC AIM-RAC - Defense VFR Flight Plans and Defense Flight Itineraries"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "When operating in accordance with VFR, aircraft shall be flown",
+            "answers": {
+                "1": "clear of aerodrome traffic zones.",
+                "2": "clear of control zones.",
+                "3": "with visual reference to the surface.",
+                "4": "in compliance with all of the above."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight",
+                "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "Normally, a helicopter in uncontrolled airspace at less than 1,000 feet AGL may operate during the day in flight visibility which is not less than",
+            "answers": {
+                "1": "1/2 mile.",
+                "2": "1 mile.",
+                "3": "2 miles.",
+                "4": "3 miles."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight",
+                "TC AIM-RAC - Control Zones, VFR Weather Minima"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "What distance from cloud shall an aircraft maintain when flying below 1,000 feet AGL within uncontrolled airspace?",
+            "answers": {
+                "1": "At least 2,000 ft horizontally and 500 ft vertically.",
+                "2": "At least 1 mile horizontally and 500 ft vertically.",
+                "3": "At least 2 miles horizontally and 500 ft vertically.",
+                "4": "Clear of cloud."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight",
+                "TC AIM-RAC - Control Zones, VFR Weather Minima"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "No person shall drop anything from an aircraft in flight",
+            "answers": {
+                "1": "which will create a hazard to persons or property.",
+                "2": "unless approval has been granted by the Minister.",
+                "3": "unless over an authorized jettison area.",
+                "4": "unless it is attached to a parachute."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.23 - Dropping of Objects"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "A person may conduct aerobatic manoeuver in an aircraft",
+            "answers": {
+                "1": "over an airport provided the appropriate frequency is monitored.",
+                "2": "over the suburban area of a city above 2,000 feet AGL.",
+                "3": "within Class F advisory airspace when visibility is 3 miles or greater.",
+                "4": "within Class C airspace when the visibility is 1 mile or greater."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.27 - Aerobatic Manoeuver - Prohibited Areas and Flight Conditions"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "CARs state that after the consumption of any alcoholic beverage, no person shall act as a crew member of an aircraft within",
+            "answers": {
+                "1": "12 hours.",
+                "2": "24hours.",
+                "3": "36 hours.",
+                "4": "48 hours."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.03 - Alcohol or Drugs - Crew Members"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "‘Day’ in Canada is that period of time between",
+            "answers": {
+                "1": "sunrise and sunset.",
+                "2": "one hour before sunrise and one hour after sunset.",
+                "3": "the beginning of morning civil twilight and the end of evening civil twilight.",
+                "4": "the end of morning civil twilight and the beginning of evening civil twilight."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 101.01 - Day",
+                "TC AIM-GEN - Glossary of Aeronautical Terms"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "‘Night’ in Canada is that period of time between",
+            "answers": {
+                "1": "sunset and sunrise.",
+                "2": "the beginning of evening civil twilight and the end of morning civil twilight.",
+                "3": "one hour after sunset and one hour before sunrise.",
+                "4": "the end of evening civil twilight and the beginning of morning civil twilight."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 101.01 - Night",
+                "TC AIM-GEN - Glossary of Aeronautical Terms"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "Formation flying is permitted only if such flights",
+            "answers": {
+                "1": "have been pre-arranged by the pilots-in-command.",
+                "2": "are conducted above 3,000 feet AGL.",
+                "3": "are conducted by commercial pilots.",
+                "4": "are led by a pilot whose license is endorsed for formation flight."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.24 - Formation Flight"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "Flight through active Class F airspace with the designator CYR",
+            "answers": {
+                "1": "may be undertaken only by aircraft equipped with two-way radio communication and a transponder.",
+                "2": "is restricted to military aircraft operating under the authority of the Minister of National Defense.",
+                "3": "will be approved only for aircraft on IFR flight plans under positive radar control.",
+                "4": "is permitted only in accordance with permission issued by the user agency."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 601.04 - IFR or VFR Flight in Class F Airspace",
+                "TC AIM-RAC - Class F Airspace"
+            ]
+        },
+        {
+            "index": "12",
+            "question": "Which statement is correct with regard to “advisory airspace”?",
+            "answers": {
+                "1": "A transient aircraft entering active advisory airspace shall be equipped with a serviceable transponder.",
+                "2": "Non-participating VFR aircraft are encouraged to avoid flight in advisory airspace during active periods specified on aeronautical charts and NOTAM.",
+                "3": "Aircraft need to be equipped with a two-way radio to enter active advisory airspace.",
+                "4": "Only military aircraft may enter advisory airspace depicted on aeronautical charts."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 601.04 - IFR or VFR Flight in Class F Airspace",
+                "TC AIM-RAC - Class F Airspace"
+            ]
+        },
+        {
+            "index": "13",
+            "question": "Except as provided by CARs, unless taking off, landing or attempting to land, no person shall fly a helicopter over a built-up area or open air assembly of persons except at an altitude that will permit, in the event of an emergency, the landing of the aircraft without creating a hazard to persons or property on the surface, and such altitude shall not be less than ..... above the highest obstacle within a horizontal radius of ..... from the aircraft.",
+            "answers": {
+                "1": "3,000 ft, 1 mile.",
+                "2": "2,000 ft, 1,000 ft.",
+                "3": "1,000 ft, 500 ft.",
+                "4": "500 ft, 500 ft."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.14 - Minimum Altitudes and Distances"
+            ]
+        },
+        {
+            "index": "14",
+            "question": "Over non-populous areas or over open water, a pilot must maintain a minimum distance of ..... feet from any person, vessel, vehicle or structure.",
+            "answers": {
+                "1": "200",
+                "2": "500",
+                "3": "1,000",
+                "4": "2,000"
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.14 - Minimum Altitudes and Distances"
+            ]
+        },
+        {
+            "index": "15",
+            "question": "Except for balloons and as provided by CARs, no person shall cause any aircraft to take off or attempt to take off from, land on or attempt to land on, any surface within the built-up area of any city or town unless",
+            "answers": {
+                "1": "the aircraft is multi-engined.",
+                "2": "all obstacles on approach and departure can be cleared by a minimum of 500 ft.",
+                "3": "that surface is an airport or military aerodrome.",
+                "4": "noise abatement procedures are followed."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.13 - Take-offs, Approaches and Landings Within Built-up Areas"
+            ]
+        },
+        {
+            "index": "16",
+            "question": "What is the height AGL above which an aircraft in VFR flight shall be operated to conform with the Cruising Altitudes Order?",
+            "answers": {
+                "1": "700 feet.",
+                "2": "2,200 feet.",
+                "3": "3,000 feet.",
+                "4": "3,500 feet."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
+                "TC AIM-RAC - Cruising Altitudes and Flight Levels"
+            ]
+        },
+        {
+            "index": "17",
+            "question": "An aircraft cruising VFR in level flight above 3,000 feet AGL on a track of 290°M shall be flown at an",
+            "answers": {
+                "1": "even thousand foot altitude.",
+                "2": "even thousand plus 500 foot altitude.",
+                "3": "odd thousand foot altitude.",
+                "4": "odd thousand plus 500 foot altitude."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
+                "TC AIM-RAC - Cruising Altitudes and Flight Levels"
+            ]
+        },
+        {
+            "index": "18",
+            "question": "The selection of a cruising altitude in the southern domestic airspace should be based on the",
+            "answers": {
+                "1": "true track.",
+                "2": "magnetic track.",
+                "3": "true heading.",
+                "4": "magnetic heading."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
+                "TC AIM-RAC - Cruising Altitudes and Flight Levels"
+            ]
+        },
+        {
+            "index": "19",
+            "question": "Every person who is the holder of any pilot license or permit shall, on demand, produce such license or permit for inspection by persons authorized by the Minister, by peace officers and",
+            "answers": {
+                "1": "FSS operators.",
+                "2": "Transport Canada airport managers.",
+                "3": "immigration officers.",
+                "4": "all of the above."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 103.02 - Inspection of Aircraft, Requests for Production of Documents"
+            ]
+        },
+        {
+            "index": "20",
+            "question": "Low Level Airspace is defined as, all airspace",
+            "answers": {
+                "1": "extending upwards from 2,200 feet AGL within designated airways.",
+                "2": "extending upwards from 1000 feet AGL within designated airways.",
+                "3": "extending upwards from the surface of the earth within designated airways.",
+                "4": "within the Canadian Domestic Airspace below 18,000 feet ASL."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - High and Low Level Airspace"
+            ]
+        },
+        {
+            "index": "21",
+            "question": "A Control Zone normally is controlled airspace extending upwards from",
+            "answers": {
+                "1": "2,200 feet above the surface of the earth.",
+                "2": "700 feet above the surface of the earth.",
+                "3": "the surface of the earth to 3,000 feet.",
+                "4": "a specified height above the surface of the earth."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs Part 101.01 - Control Zone",
+                "TC AIM-RAC - Control Zones"
+            ]
+        }
+    ]
+}

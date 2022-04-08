@@ -1,0 +1,76 @@
+{
+    "section": "Aviation Occurrences",
+    "section_number": "14",
+    "questions": [
+        {
+            "index": "01",
+            "question": "The primary objective of an aviation safety investigation into an aircraft accident or aircraft incident is to",
+            "answers": {
+                "1": "apportion blame and liability.",
+                "2": "determine the adequacy of insurance regulations",
+                "3": "enforce regulations.",
+                "4": "prevent recurrences."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-GEN - Aviation Safety Investigation"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "Details on civil aviation accident reporting procedures can be found in the",
+            "answers": {
+                "1": "TC AIM",
+                "2": "Canadian Aviation Regulations.",
+                "3": "Canada Flight Supplement.",
+                "4": "Aviation Safety Manual."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-GEN - Reporting an Aviation Occurrence"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "When an aircraft accident occurs, the pilot or operator of the aircraft involved shall ensure that the particulars of the accident are reported to the TSB",
+            "answers": {
+                "1": "within 7 days by registered mail.",
+                "2": "within 24 hours by telephone.",
+                "3": "within 48 hours by facsimile.",
+                "4": "as soon as possible and by the quickest means available."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-GEN - Information to Report"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "The TSB shall be notified of a reportable aviation accident when",
+            "answers": {
+                "1": "a person sustains serious or fatal injury as a result of being in or coming into direct contact with any part of an aircraft.",
+                "2": "an aircraft sustains damage or structural failure adversely affecting performance or flight characteristics and requiring major repair or replacement.",
+                "3": "an aircraft is missing or completely inaccessible.",
+                "4": "any of the above conditions exist."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-GEN - Accidents"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "The TSB considers missing aircraft to be",
+            "answers": {
+                "1": "a reportable aviation incident.",
+                "2": "an occurrence which need not be reported.",
+                "3": "an aviation incident which need not be reported.",
+                "4": "a reportable aviation accident."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-GEN - Accidents"
+            ]
+        }
+    ]
+}

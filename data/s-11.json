@@ -1,0 +1,203 @@
+{
+    "section": "Aircraft Operations",
+    "section_number": "11",
+    "questions": [
+        {
+            "index": "01",
+            "question": "In an emergency requiring the use of an ELT, it should be turned on",
+            "answers": {
+                "1": "immediately and left on.",
+                "2": "at the ETA in the flight plan.",
+                "3": "for the first five minutes of each hour UTC.",
+                "4": "during daylight hours only to conserve the battery."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-SAR - ELT Operating Instructions (Emergency Use)"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "An aircraft’s 121.5 MHz ELT may be switched to transmit for test purposes anytime",
+            "answers": {
+                "1": "following a hard landing.",
+                "2": "during the first 5 minutes of any hour UTC.",
+                "3": "following a component or battery change.",
+                "4": "prior to flight and listening on 121.5 MHz."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-SAR - ELT Testing Procedures",
+                "CARs 605.40 - ELT Activation"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "Before shutting down you can verify that the aircraft’s ELT is not transmitting by",
+            "answers": {
+                "1": "checking that the ELT switch is in the off position.",
+                "2": "listening on 121.5 MHz for a signal.",
+                "3": "ensuring that the master switch is off.",
+                "4": "checking the ELT visual warning light."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-SAR - ELT Operating Instructions (Normal Use)"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "All accidental ELT activations should be reported to the",
+            "answers": {
+                "1": "airport manager.",
+                "2": "R.C.M.P.",
+                "3": "Minister.",
+                "4": "nearest ATS unit."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-SAR - Accidental ELT Transmissions, CARs 605.40"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "When an aircraft engine is left running on the ground and no person remains onboard, the aircraft’s movement must be restricted and",
+            "answers": {
+                "1": "it must remain in sight of the pilot at all times.",
+                "2": "it must not be left unattended.",
+                "3": "its gross weight must be below 4,409 LB (2,000 kg).",
+                "4": "its control locks must be installed."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "CARs 602.10 - Starting and Ground Running of Aircraft Engines"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "When confronted with an approaching thunderstorm, a take-off or landing",
+            "answers": {
+                "1": "should be avoided as a sudden wind shift or low level turbulence could cause a loss of control.",
+                "2": "is safe if you can see under the thunderstorm through to the other side.",
+                "3": "should be avoided unless the take-off can be made away from the thunderstorm.",
+                "4": "is safe if the thunderstorm is regarded as light."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-AIR - Flight Ops Near Thunderstorms / Considerations"
+            ]
+        },
+        {
+            "index": "07",
+            "question": "An isolated thunderstorm is in close proximity to your aerodrome of intended landing. You should",
+            "answers": {
+                "1": "land giving due consideration to wind shear on final approach.",
+                "2": "hold over a known point clear of the thunderstorm until it is well past the aerodrome.",
+                "3": "land as quickly as possible.",
+                "4": "add one-half the wind gust factor to the recommended landing speed and land."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Flight Ops Near Thunderstorms / Considerations"
+            ]
+        },
+        {
+            "index": "08",
+            "question": "The take-off thrust blast danger area includes at least that area extending back from the tail of a medium size jet transport aeroplane for",
+            "answers": {
+                "1": "1,200 feet.",
+                "2": "900 feet.",
+                "3": "500 feet.",
+                "4": "450 feet."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-AIR - Jet and Propeller Blast Danger"
+            ]
+        },
+        {
+            "index": "09",
+            "question": "The ground idle blast danger area extends back from the tail of a jumbo jet aeroplane for at least",
+            "answers": {
+                "1": "200 feet.",
+                "2": "450 feet.",
+                "3": "600 feet.",
+                "4": "750 feet."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-AIR - Jet and Propeller Blast Danger"
+            ]
+        },
+        {
+            "index": "10",
+            "question": "The ground idle blast danger area extends back from the tail of a medium size jet aeroplane for at least",
+            "answers": {
+                "1": "200 feet.",
+                "2": "450 feet.",
+                "3": "600 feet.",
+                "4": "750 feet."
+            },
+            "correctAnswer": "2",
+            "references": [
+                "TC AIM-AIR - Jet and Propeller Blast Danger"
+            ]
+        },
+        {
+            "index": "11",
+            "question": "The ground idle blast danger area extends back from the tail of an executive jet aeroplane for",
+            "answers": {
+                "1": "200 feet.",
+                "2": "450 feet.",
+                "3": "600 feet.",
+                "4": "750 feet."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-AIR - Jet and Propeller Blast Danger"
+            ]
+        },
+        {
+            "index": "12",
+            "question": "A 45 kt blast area can be expected ..... behind the propellers of a large turbo-prop aeroplane during taxi.",
+            "answers": {
+                "1": "60 feet.",
+                "2": "80 feet.",
+                "3": "100 feet.",
+                "4": "120 feet."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "TC AIM-AIR - Jet and Propeller Blast Danger"
+            ]
+        },
+        {
+            "index": "13",
+            "question": "ATC advises that simultaneous operations are in progress at an airport. Pilots could expect a clearance to",
+            "answers": {
+                "1": "take-off over top of an aircraft on an intersecting runway.",
+                "2": "take-off on a specified parallel runway.",
+                "3": "land and hold short of an intersecting runway.",
+                "4": "land on a specified parallel runway."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "TC AIM-RAC - Operations on Intersecting Runways"
+            ]
+        },
+        {
+            "index": "14",
+            "question": "When issued a clearance to land and hold short of an intersecting runway, pilots",
+            "answers": {
+                "1": "shall comply regardless of the circumstances.",
+                "2": "may taxi across the intersection after the departing or arriving aircraft has cleared their path.",
+                "3": "who inadvertently go through the intersection should immediately do a 180° turn and backtrack to the hold position.",
+                "4": "should immediately inform ATC if they are unable to comply."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "TC AIM-RAC - Operations on Intersecting Runways"
+            ]
+        }
+    ]
+}

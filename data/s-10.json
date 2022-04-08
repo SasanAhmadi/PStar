@@ -1,0 +1,96 @@
+{
+    "section": "Clearances and Instructions",
+    "section_number": "10",
+    "questions": [
+        {
+            "index": "01",
+            "question": "An ATC instruction",
+            "answers": {
+                "1": "must be complied with when received by the pilot providing the safety of the aircraft is not jeopardized.",
+                "2": "must be ‘read back’ in full to the controller and confirmed before becoming effective.",
+                "3": "is in effect advice provided by ATC and does not require acceptance or formal acknowledgement by the pilot concerned.",
+                "4": "is the same as an ATC clearance."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "02",
+            "question": "An ATC clearance",
+            "answers": {
+                "1": "is the same as an ATC instruction.",
+                "2": "is advice provided by ATC and does not require acceptance or acknowledgement by the PIC.",
+                "3": "requires compliance when accepted by the PIC.",
+                "4": "must be complied with when received by the PIC."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "03",
+            "question": "A pilot, after accepting a clearance and subsequently finding that all or part of the clearance cannot be complied with, should",
+            "answers": {
+                "1": "disregard the clearance.",
+                "2": "comply with only the part that is suitable.",
+                "3": "comply as best as possible under the circumstances to carry out the clearance and need not say anything to ATC.",
+                "4": "comply as best as possible under the circumstances and advise ATC as soon as possible."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "04",
+            "question": "After accepting a clearance and subsequently finding that it cannot be complied with, a pilot should",
+            "answers": {
+                "1": "take any immediate action required and advise ATC as soon as possible.",
+                "2": "comply as best as possible under the circumstances and say nothing to ATC.",
+                "3": "disregard the clearance.",
+                "4": "comply with the suitable parts."
+            },
+            "correctAnswer": "1",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "05",
+            "question": "An ATC clearance or instruction is predicated on known traffic only. Therefore, when a pilot is proceeding in accordance with a clearance or instruction",
+            "answers": {
+                "1": "ATC is relieved of the responsibility for traffic separation.",
+                "2": "the responsibility for traffic separation is divided between ATC and the pilot.",
+                "3": "the pilot is not relieved of the responsibility for traffic avoidance.",
+                "4": "the pilot is relieved of the responsibility for traffic avoidance."
+            },
+            "correctAnswer": "3",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        },
+        {
+            "index": "06",
+            "question": "If all or part of an ATC clearance is unacceptable, a pilot should",
+            "answers": {
+                "1": "comply as best as possible under the circumstances.",
+                "2": "refuse the clearance without giving a reason for refusal.",
+                "3": "acknowledge the clearance and read back only the acceptable parts.",
+                "4": "refuse the clearance and inform ATC of their intentions."
+            },
+            "correctAnswer": "4",
+            "references": [
+                "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
+                "TC AIM-RAC - ATC Clearances, Instructions and Information"
+            ]
+        }
+    ]
+}
