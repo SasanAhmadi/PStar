@@ -12,6 +12,7 @@
                 "4": "cleared to land;-----------cleared for take-off."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals",
                 "TC AIM-RAC - Visual Signals"
@@ -27,6 +28,7 @@
                 "4": "airport unsafe do not land;---------------------------------stop."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals",
                 "TC AIM-RAC - Visual signals"
@@ -42,6 +44,7 @@
                 "4": "you are in prohibited area, alter course;-----------stop."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals",
                 "TC AIM-RAC - Visual signals"
@@ -57,6 +60,7 @@
                 "4": "cleared to land;---------------cleared for take-off.               "
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals",
                 "TC AIM-RAC - Visual signals"
@@ -72,6 +76,7 @@
                 "4": "taxi clear of landing area in use."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals"
             ]
@@ -86,6 +91,7 @@
                 "4": "be aware that an emergency is in progress; hold your position."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Visual Signals"
             ]
@@ -100,6 +106,7 @@
                 "4": "an open pit mine."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "AIP Part 2 - Fur and Poultry Farms"
             ]
@@ -114,6 +121,7 @@
                 "4": "1,000 feet AGL."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "AIP Part 2 - Protection of Wildlife"
             ]

@@ -12,6 +12,7 @@
                 "4": "a certified aerodrome."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-AGA - Aerodromes and Airports / General",
                 "CARs 101.01 - Airport",
@@ -29,6 +30,7 @@
                 "4": "6 kt."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AGA - Wind Direction Indicators",
                 "Flight Training Manual Chapter 5 - Airport Operations"
@@ -44,6 +46,7 @@
                 "4": "a qualified flying instructor."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 301.08 - Prohibitions"
             ]
@@ -58,6 +61,7 @@
                 "4": "white dumbbells."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-AGA - Closed Markings"
             ]
@@ -72,6 +76,7 @@
                 "4": "270."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "Flight Training Manual Chapter 5 - Airport Operations"
             ]
@@ -86,6 +91,7 @@
                 "4": "200 ft from the edge of the runway."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Taxi Holding Positions"
             ]
@@ -100,6 +106,7 @@
                 "4": "used for taxiing, taking off and landing."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 101.01 - Manoeuvering Area",
                 "TC AIM-GEN - Glossary of Aeronautical Terms"
@@ -115,6 +122,7 @@
                 "4": "500 feet AGL."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.96 - Operations at or in the Vicinity of aerodrome, General",
                 "TC AIM-RAC - Minimum Altitudes - Overflying Aerodromes"

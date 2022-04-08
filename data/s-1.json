@@ -12,6 +12,7 @@
                 "4": "Aeroplanes towing gliders must give way to helicopters."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -27,6 +28,7 @@
                 "4": "the aircraft that has the other on its left shall give way."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -42,6 +44,7 @@
                 "4": "Power-driven heavier-than-air aircraft shall give way to gliders."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -57,6 +60,7 @@
                 "4": "Helicopters shall give way to gliders."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -72,6 +76,7 @@
                 "4": "Gliders shall give way to balloons."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -87,6 +92,7 @@
                 "4": "balloons shall give way to airships."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -102,6 +108,7 @@
                 "4": "the one on the right shall give way by descending."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -117,6 +124,7 @@
                 "4": "alter heading to the left."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -132,6 +140,7 @@
                 "4": "alter heading to the left."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"
@@ -147,6 +156,7 @@
                 "4": "complete a 360° turn to the right."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Collision Avoidance - Right of Way",
                 "CARs 602.19 - Right of Way"

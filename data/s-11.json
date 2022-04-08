@@ -12,6 +12,7 @@
                 "4": "during daylight hours only to conserve the battery."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-SAR - ELT Operating Instructions (Emergency Use)"
             ]
@@ -26,6 +27,7 @@
                 "4": "prior to flight and listening on 121.5 MHz."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-SAR - ELT Testing Procedures",
                 "CARs 605.40 - ELT Activation"
@@ -41,6 +43,7 @@
                 "4": "checking the ELT visual warning light."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-SAR - ELT Operating Instructions (Normal Use)"
             ]
@@ -55,6 +58,7 @@
                 "4": "nearest ATS unit."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-SAR - Accidental ELT Transmissions, CARs 605.40"
             ]
@@ -69,6 +73,7 @@
                 "4": "its control locks must be installed."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.10 - Starting and Ground Running of Aircraft Engines"
             ]
@@ -83,6 +88,7 @@
                 "4": "is safe if the thunderstorm is regarded as light."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Flight Ops Near Thunderstorms / Considerations"
             ]
@@ -97,6 +103,7 @@
                 "4": "add one-half the wind gust factor to the recommended landing speed and land."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Flight Ops Near Thunderstorms / Considerations"
             ]
@@ -111,6 +118,7 @@
                 "4": "450 feet."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Jet and Propeller Blast Danger"
             ]
@@ -125,6 +133,7 @@
                 "4": "750 feet."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Jet and Propeller Blast Danger"
             ]
@@ -139,6 +148,7 @@
                 "4": "750 feet."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Jet and Propeller Blast Danger"
             ]
@@ -153,6 +163,7 @@
                 "4": "750 feet."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Jet and Propeller Blast Danger"
             ]
@@ -167,6 +178,7 @@
                 "4": "120 feet."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Jet and Propeller Blast Danger"
             ]
@@ -181,6 +193,7 @@
                 "4": "land on a specified parallel runway."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Operations on Intersecting Runways"
             ]
@@ -195,6 +208,7 @@
                 "4": "should immediately inform ATC if they are unable to comply."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Operations on Intersecting Runways"
             ]

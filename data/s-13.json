@@ -12,6 +12,7 @@
                 "4": "an ATC service is provided."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 101.01 - Controlled Airspace",
                 "TC AIM-RAC - Controlled Airspace"
@@ -27,6 +28,7 @@
                 "4": "1,000 feet vertically and 3 miles horizontally."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "TC AIM-RAC - Control Zones, VFR Weather Minima"
@@ -42,6 +44,7 @@
                 "4": "3 miles."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "TC AIM-RAC - Control Zones, VFR Weather Minima"
@@ -57,6 +60,7 @@
                 "4": "1,000 feet vertically and 3 miles horizontally."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "TC AIM-RAC - Control Zones, VFR Weather Minima"
@@ -72,6 +76,7 @@
                 "4": "conform with circuit direction at that airport."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 601.08 - VFR Flight in Class C Airspace",
                 "TC AIM-RAC - VFR Operations Within Class C Airspace"
@@ -87,6 +92,7 @@
                 "4": "3 miles."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.117 - Special VFR Flight",
                 "TC AIM-RAC - Control Zones, Special VFR Weather Minima"
@@ -102,6 +108,7 @@
                 "4": "1/2 mile and operated at not less than 500 feet AGL."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.117 - Special VFR Flight",
                 "TC AIM-RAC - Control Zones, Special VFR Weather Minima"
@@ -117,6 +124,7 @@
                 "4": "an airway."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.117 - Special VFR Flight",
                 "TC AIM-RAC - Control Zones, Special VFR Weather Minima"
@@ -132,6 +140,7 @@
                 "4": "immediately after entering a Control Zone."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 601.08 - VFR Flight in Class C Airspace",
                 "TC AIM-RAC - Arrival Procedure - Controlled Airports, Initial Contact"
@@ -147,6 +156,7 @@
                 "4": "in accordance with an ATC clearance."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 601.07 - VFR Flight in Class B Airspace",
                 "TC AIM-RAC - Class B Airspace"
@@ -162,6 +172,7 @@
                 "4": "immediately prior to joining the circuit."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 601.08 - VFR Flight in Class C Airspace",
                 "TC AIM-RAC - Class C Airspace",
@@ -178,6 +189,7 @@
                 "4": "contact radar service only when taking off or landing at the major airport concerned."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 601.08 - VFR Flight in Class C Airspace",
                 "TC AIM-RAC - Class C Airspace",

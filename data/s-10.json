@@ -12,6 +12,7 @@
                 "4": "is the same as an ATC clearance."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"
@@ -27,6 +28,7 @@
                 "4": "must be complied with when received by the PIC."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"
@@ -42,6 +44,7 @@
                 "4": "comply as best as possible under the circumstances and advise ATC as soon as possible."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"
@@ -57,6 +60,7 @@
                 "4": "comply with the suitable parts."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"
@@ -72,6 +76,7 @@
                 "4": "the pilot is relieved of the responsibility for traffic avoidance."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"
@@ -87,6 +92,7 @@
                 "4": "refuse the clearance and inform ATC of their intentions."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.31 - Compliance with Air Traffic Control Instructions and Clearances",
                 "TC AIM-RAC - ATC Clearances, Instructions and Information"

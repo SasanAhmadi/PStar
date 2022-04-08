@@ -12,6 +12,7 @@
                 "4": "Charlie - Golf - Foxtrot - Lima - Uniform."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-COM- Call Signs / Civil Aircraft"
             ]
@@ -26,6 +27,7 @@
                 "4": "Bravo, Sierra, Québec."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-COM- Use of Phonetics",
                 "TC AIM-COM- Call Signs / Civil Aircraft"
@@ -41,6 +43,7 @@
                 "4": "the phonetic equivalents."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-COM- Call Signs / Civil Aircraft"
             ]
@@ -55,6 +58,7 @@
                 "4": "type of aircraft and the last three letters of the registration in phonetics."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-COM- Call Signs / Civil Aircraft"
             ]
@@ -69,6 +73,7 @@
                 "4": "only when VFR conditions exist at airports."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- ATIS"
             ]
@@ -83,6 +88,7 @@
                 "4": "ATIS phonetic identifier."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- ATIS"
             ]
@@ -97,6 +103,7 @@
                 "4": "122.2 MHz"
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Monitoring, Broadcasting on 126.7 MHz"
             ]
@@ -111,6 +118,7 @@
                 "4": "the voice frequency of the navigation aid in use."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-SAR- ELT Operating Instructions"
             ]
@@ -125,6 +133,7 @@
                 "4": "Flight Training Manual (FTM) - TP1102."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- Mandatory Frequency"
             ]
@@ -139,6 +148,7 @@
                 "4": "first aircraft heard on the frequency."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- Mandatory Frequency",
                 "TC AIM-RAC- Use of MF and ATF, CARs 602.98"
@@ -154,6 +164,7 @@
                 "4": "126.7 MHz."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- Aerodrome Traffic Frequency"
             ]
@@ -168,6 +179,7 @@
                 "4": "clear of the aerodrome circuit pattern."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC- VFR Com Procedures at Aerodromes With MF and ATF",
                 "CARs 602.97 - VFR and IFR Aircraft Operations at Uncontrolled Aerodromes"
@@ -183,6 +195,7 @@
                 "4": "the runway in use, but further clearance is required to cross the other runway."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Taxi Information"
             ]
@@ -197,6 +210,7 @@
                 "4": "HOLD SHORT OF 04”."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Taxi Information"
             ]
@@ -211,6 +225,7 @@
                 "4": "complete the pre-take-off check before taxiing onto the runway and taking off."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Takeoff Clearance"
             ]
@@ -225,6 +240,7 @@
                 "4": "90° to the left, at same altitude."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Radar Traffic Information"
             ]
@@ -239,6 +255,7 @@
                 "4": "land and do a 180° turn and taxi back to clear the runway at the required intersection."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - ATC Clearances, Instructions and Information",
                 "CAR 602.31 - Compliance with Air Traffic Control Instructions and Clearances"
@@ -254,6 +271,7 @@
                 "4": "EMERGENCY, EMERGENCY, EMERGENCY."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-COM - Emergency Communications",
                 "TC AIM-SAR - Declaring an Emergency",
@@ -270,6 +288,7 @@
                 "4": "URGENCY, URGENCY, URGENCY."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "RTORC - Urgency Communications",
                 "TC AIM-COM - Emergency Communications",
@@ -286,6 +305,7 @@
                 "4": "ALL STATIONS (three times), EMERGENCY OVER."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "RTORC - Cancellation of Distress"
             ]
@@ -300,6 +320,7 @@
                 "4": "clear of the Control Zone."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Release from Tower Frequency"
             ]
@@ -314,6 +335,7 @@
                 "4": "clear you to land."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Initial Clearance"
             ]
@@ -328,6 +350,7 @@
                 "4": "transmitting the aircraft call sign."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-COM - Standard Radio Telephony"
             ]
@@ -342,6 +365,7 @@
                 "4": "this is...’"
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-COM - Ground Stations"
             ]
@@ -356,6 +380,7 @@
                 "4": "terminal radar service."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-RAC - Flight Service Station (FSS) provides"
             ]
@@ -370,6 +395,7 @@
                 "4": "valid for 24 hours."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references":[
                 "TC AIM-MAP - NOTAM Distribution - Canadian"
             ]
@@ -384,6 +410,7 @@
                 "4": "until a cancelling NOTAM is issued."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references":[
                 "TC AIM-MAP - New NOTAM"
             ]
@@ -398,6 +425,7 @@
                 "4": "until a cancelling (NOTAMC) or replacing (NOTAMR) is issued."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references":[
                 "TC AIM-MAP - New NOTAM"
             ]
@@ -412,39 +440,10 @@
                 "4": "perfectly readable."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references":[
                 "TC AIM-COM - Communications Checks"
             ]
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

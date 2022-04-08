@@ -12,6 +12,7 @@
                 "4": "prevent recurrences."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-GEN - Aviation Safety Investigation"
             ]
@@ -26,6 +27,7 @@
                 "4": "Aviation Safety Manual."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-GEN - Reporting an Aviation Occurrence"
             ]
@@ -40,6 +42,7 @@
                 "4": "as soon as possible and by the quickest means available."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-GEN - Information to Report"
             ]
@@ -54,6 +57,7 @@
                 "4": "any of the above conditions exist."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-GEN - Accidents"
             ]
@@ -68,6 +72,7 @@
                 "4": "a reportable aviation accident."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-GEN - Accidents"
             ]

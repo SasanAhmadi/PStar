@@ -12,6 +12,7 @@
                     "4": "D, E, G, H."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-LRA - Radio Operator Certificate",
                 "TC AIM-LRA - Flight Authority",
@@ -32,6 +33,7 @@
                 "4": "all of the above"
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.61 - Survival Equipment - Flights Over Land"
             ]
@@ -46,6 +48,7 @@
                 "4": "taking off or landing at night."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 605.16 - Power-driven Aircraft - Night VFR"
             ]
@@ -60,6 +63,7 @@
                 "4": "13,000 feet ASL."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 605.31 - Oxygen Equipment and Supply"
             ]
@@ -74,6 +78,7 @@
                 "4": "2 hours"
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 605.31 - Oxygen Equipment and Supply"
             ]
@@ -88,6 +93,7 @@
                 "4": "A signal mirror."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.62 - Life Preservers and Flotation Devices",
                 "CARs 602.63 - Life Rafts and Survival Equipment"
@@ -103,6 +109,7 @@
                 "4": "126.7 MHz."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CFS Emergency Section",
                 "TC AIM-COM - Emergency Communications",
@@ -119,6 +126,7 @@
                 "4": "pilot has completed 3 night landings in the previous 90 days."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 301.07 - Lighting"
             ]
@@ -133,6 +141,7 @@
                 "4": "under 2 years of age."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 101.01 - Infant"
             ]
@@ -147,6 +156,7 @@
                 "4": "secured by any one of the above methods."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 605.25 - Entering or Leaving an Aircraft in Flight",
                 "CARs 605.26 - Parachute Descents"
@@ -162,6 +172,7 @@
                 "4": "B, D, E, G."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.59 - Equipment Standards",
                 "CARs 605.14 - Power-driven Aircraft - Day VFR"

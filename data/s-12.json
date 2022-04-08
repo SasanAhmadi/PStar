@@ -12,6 +12,7 @@
                 "4": "to all aircraft."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.145 - ADIZ",
                 "TC AIM-RAC - Defense VFR Flight Plans and Defense Flight Itineraries"
@@ -27,6 +28,7 @@
                 "4": "in compliance with all of the above."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.114 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight"
@@ -42,6 +44,7 @@
                 "4": "3 miles."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "TC AIM-RAC - Control Zones, VFR Weather Minima"
@@ -57,6 +60,7 @@
                 "4": "Clear of cloud."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.115 - Minimum Visual Meteorological Conditions for VFR Flight",
                 "TC AIM-RAC - Control Zones, VFR Weather Minima"
@@ -72,6 +76,7 @@
                 "4": "unless it is attached to a parachute."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.23 - Dropping of Objects"
             ]
@@ -86,6 +91,7 @@
                 "4": "within Class C airspace when the visibility is 1 mile or greater."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.27 - Aerobatic Manoeuver - Prohibited Areas and Flight Conditions"
             ]
@@ -100,6 +106,7 @@
                 "4": "48 hours."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.03 - Alcohol or Drugs - Crew Members"
             ]
@@ -114,6 +121,7 @@
                 "4": "the end of morning civil twilight and the beginning of evening civil twilight."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 101.01 - Day",
                 "TC AIM-GEN - Glossary of Aeronautical Terms"
@@ -129,6 +137,7 @@
                 "4": "the end of evening civil twilight and the beginning of morning civil twilight."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 101.01 - Night",
                 "TC AIM-GEN - Glossary of Aeronautical Terms"
@@ -144,6 +153,7 @@
                 "4": "are led by a pilot whose license is endorsed for formation flight."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.24 - Formation Flight"
             ]
@@ -158,6 +168,7 @@
                 "4": "is permitted only in accordance with permission issued by the user agency."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 601.04 - IFR or VFR Flight in Class F Airspace",
                 "TC AIM-RAC - Class F Airspace"
@@ -173,6 +184,7 @@
                 "4": "Only military aircraft may enter advisory airspace depicted on aeronautical charts."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 601.04 - IFR or VFR Flight in Class F Airspace",
                 "TC AIM-RAC - Class F Airspace"
@@ -188,6 +200,7 @@
                 "4": "500 ft, 500 ft."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.14 - Minimum Altitudes and Distances"
             ]
@@ -202,6 +215,7 @@
                 "4": "2,000"
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.14 - Minimum Altitudes and Distances"
             ]
@@ -216,6 +230,7 @@
                 "4": "noise abatement procedures are followed."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.13 - Take-offs, Approaches and Landings Within Built-up Areas"
             ]
@@ -230,6 +245,7 @@
                 "4": "3,500 feet."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
                 "TC AIM-RAC - Cruising Altitudes and Flight Levels"
@@ -245,6 +261,7 @@
                 "4": "odd thousand plus 500 foot altitude."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
                 "TC AIM-RAC - Cruising Altitudes and Flight Levels"
@@ -260,6 +277,7 @@
                 "4": "magnetic heading."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.34 - Cruising Altitudes and Cruising Flight Levels",
                 "TC AIM-RAC - Cruising Altitudes and Flight Levels"
@@ -275,6 +293,7 @@
                 "4": "all of the above."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 103.02 - Inspection of Aircraft, Requests for Production of Documents"
             ]
@@ -289,6 +308,7 @@
                 "4": "within the Canadian Domestic Airspace below 18,000 feet ASL."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - High and Low Level Airspace"
             ]
@@ -303,6 +323,7 @@
                 "4": "a specified height above the surface of the earth."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs Part 101.01 - Control Zone",
                 "TC AIM-RAC - Control Zones"

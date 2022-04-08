@@ -12,6 +12,7 @@
                 "4": "fly as crew member only if a back-up member is available."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 404.06 - Prohibition Regarding Exercise of Privileges"
             ]
@@ -26,6 +27,7 @@
                 "4": "Increase oxygen flow rates."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Hyperventilation"
             ]
@@ -40,6 +42,7 @@
                 "4": "after SCUBA diving."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Middle Ear and Sinus Discomfort or Pain"
             ]
@@ -54,6 +57,7 @@
                 "4": "all of the above."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Middle Ear and Sinus Discomfort or Pain"
             ]
@@ -68,6 +72,7 @@
                 "4": "24 hours."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - SCUBA Diving"
             ]
@@ -82,6 +87,7 @@
                 "4": "A fatigued person must have food immediately before and during flight."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Fatigue"
             ]
@@ -96,6 +102,7 @@
                 "4": "48 hours."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Blood Donation"
             ]
@@ -110,6 +117,7 @@
                 "4": "unless advised it is safe to do so by a doctor."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Anesthetics"
             ]
@@ -124,6 +132,7 @@
                 "4": "48 hrs."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Anesthetics"
             ]
@@ -138,6 +147,7 @@
                 "4": "remains constant to 6,000 feet ASL."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Alcohol"
             ]
@@ -153,6 +163,7 @@
                 "5": "allow at least 8 hours between taking any medicine or drugs and flying."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "TC AIM-AIR - Drugs"
             ]
@@ -167,6 +178,7 @@
                 "4": "48 months."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 424.04 - Issuance and Validity Period of Medical Certificate",
                 "TC AIM-LRA - Medical Validity Periods"
@@ -182,6 +194,7 @@
                 "4": "24 months."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 424.04 - Issuance and Validity Period of Medical Certificate",
                 "TC AIM-LRA - Medical Validity Periods"

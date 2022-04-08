@@ -12,6 +12,7 @@
                 "4": "then to a specified alternate and thereafter for 20 minutes at normal cruising speed."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "CARs 602.88 - Fuel Requirements",
                 "TC AIM-RAC - Fuel Requirements"
@@ -27,6 +28,7 @@
                 "4": "then to a specified alternate aerodrome and then fly for a period of 30 minutes at normal cruising speed."
             },
             "correctAnswer": "2",
+            "help_link": "",
             "references": [
                 "CARs 602.88 - Fuel Requirements",
                 "TC AIM-RAC - Fuel Requirements"
@@ -42,6 +44,7 @@
                 "4": "for all flights."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.73 - Requirement to File a Flight Plan or a Flight Itinerary",
                 "TC AIM-RAC - Flight Plans and Flight Itineraries, When Required"
@@ -57,6 +60,7 @@
                 "4": "60 minutes."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.77 - Requirement to file an Arrival Report",
                 "TC AIM-RAC - Closing a Flight Plan"
@@ -72,6 +76,7 @@
                 "4": "within 60 minutes after landing."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.76 - Changes in a Flight Plan",
                 "TC AIM-RAC - Changes to the Information in a Flight Plan or Flight Itinerary"
@@ -87,6 +92,7 @@
                 "4": "As soon as practicable after landing but no later than 24 hours after the last reported ETA."
             },
             "correctAnswer": "4",
+            "help_link": "",
             "references": [
                 "CARs 602.77 - Requirement to file an Arrival Report",
                 "TC AIM-RAC - Closing a Flight Plan"
@@ -102,6 +108,7 @@
                 "4": "has agreed to report the arrival of the aircraft."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.70 - Flight Preparation, Flight Plans and Flight Itineraries, Interpretation, TC AIM-RAC - Filing"
             ]
@@ -116,6 +123,7 @@
                 "4": "except at airports served by a control tower in which case the controller will automatically file the arrival report."
             },
             "correctAnswer": "1",
+            "help_link": "",
             "references": [
                 "CARs 602.77 - Requirement to file an Arrival Report",
                 "TC AIM-RAC - Closing a Flight Plan"        
@@ -131,6 +139,7 @@
                 "4": "2 hours 35 minutes."
             },
             "correctAnswer": "3",
+            "help_link": "",
             "references": [
                 "TC AIM-RAC - Intermediate stops"
             ]
@@ -145,6 +154,7 @@
             "4": "elapsed time to the first landing plus intermediate stops."
         },
         "correctAnswer": "1",
+        "help_link": "",
         "references": [
             "TC AIM-RAC - Intermediate stops"
         ]
@@ -159,6 +169,7 @@
             "4": "By simply indicating “Intermediate Stop” in “Other Information” column."
         },
         "correctAnswer": "3",
+        "help_link": "",
         "references": [
             "TC AIM-RAC - Intermediate stops"
         ]
